@@ -1,0 +1,723 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": true,
+        "name": "開始部屋",
+        "order": 3,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 641.3333333333334
+    },
+    {
+        "id": 2,
+        "expanded": true,
+        "name": "回想部屋（主人公）",
+        "order": 2,
+        "parentId": 3,
+        "scrollX": 1186.6666666666667,
+        "scrollY": 640
+    },
+    {
+        "id": 3,
+        "expanded": true,
+        "name": "デバッグルーム",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 952,
+        "scrollY": 592
+    },
+    {
+        "id": 4,
+        "expanded": true,
+        "name": "theHouse型マップ1",
+        "order": 19,
+        "parentId": 7,
+        "scrollX": 566,
+        "scrollY": 436
+    },
+    {
+        "id": 5,
+        "expanded": true,
+        "name": "アラカパート",
+        "order": 39,
+        "parentId": 0,
+        "scrollX": 566,
+        "scrollY": 456.5
+    },
+    {
+        "id": 6,
+        "expanded": true,
+        "name": "ホラー廃墟第１階層",
+        "order": 14,
+        "parentId": 27,
+        "scrollX": 952,
+        "scrollY": 592
+    },
+    {
+        "id": 7,
+        "expanded": true,
+        "name": "ホラー廃墟第２階層レンタルビデオ",
+        "order": 18,
+        "parentId": 27,
+        "scrollX": 1481,
+        "scrollY": 449
+    },
+    {
+        "id": 8,
+        "expanded": true,
+        "name": "浄化槽",
+        "order": 46,
+        "parentId": 5,
+        "scrollX": 662,
+        "scrollY": 751.5
+    },
+    {
+        "id": 9,
+        "expanded": true,
+        "name": "ホラー廃墟第５階層",
+        "order": 35,
+        "parentId": 27,
+        "scrollX": 979,
+        "scrollY": 944
+    },
+    {
+        "id": 10,
+        "expanded": true,
+        "name": "ホラー廃墟第３階層",
+        "order": 29,
+        "parentId": 27,
+        "scrollX": 941.3333333333334,
+        "scrollY": 693.3333333333334
+    },
+    {
+        "id": 11,
+        "expanded": true,
+        "name": "廃墟屋上・社（ホラー分岐）",
+        "order": 31,
+        "parentId": 27,
+        "scrollX": 710,
+        "scrollY": 443
+    },
+    {
+        "id": 12,
+        "expanded": true,
+        "name": "奥殿１－２",
+        "order": 42,
+        "parentId": 28,
+        "scrollX": 490,
+        "scrollY": 901.5
+    },
+    {
+        "id": 13,
+        "expanded": true,
+        "name": "奥殿２",
+        "order": 43,
+        "parentId": 5,
+        "scrollX": 490,
+        "scrollY": 1672.5
+    },
+    {
+        "id": 14,
+        "expanded": true,
+        "name": "奥殿０",
+        "order": 40,
+        "parentId": 5,
+        "scrollX": 941.3333333333334,
+        "scrollY": 752
+    },
+    {
+        "id": 15,
+        "expanded": true,
+        "name": "浄化槽(EV用)",
+        "order": 47,
+        "parentId": 8,
+        "scrollX": 941.3333333333334,
+        "scrollY": 650.6666666666666
+    },
+    {
+        "id": 16,
+        "expanded": true,
+        "name": "葬式会場",
+        "order": 63,
+        "parentId": 67,
+        "scrollX": 490,
+        "scrollY": 509.5
+    },
+    {
+        "id": 17,
+        "expanded": false,
+        "name": "ワープ部屋",
+        "order": 6,
+        "parentId": 1,
+        "scrollX": 414,
+        "scrollY": 447
+    },
+    {
+        "id": 18,
+        "expanded": false,
+        "name": "ハッピーエンド用 街中",
+        "order": 72,
+        "parentId": 65,
+        "scrollX": 498,
+        "scrollY": 456.5
+    },
+    {
+        "id": 19,
+        "expanded": false,
+        "name": "出産用",
+        "order": 66,
+        "parentId": 5,
+        "scrollX": 557,
+        "scrollY": 439
+    },
+    {
+        "id": 20,
+        "expanded": true,
+        "name": "第２階層トイレ",
+        "order": 22,
+        "parentId": 7,
+        "scrollX": 662,
+        "scrollY": 442.5
+    },
+    {
+        "id": 21,
+        "expanded": true,
+        "name": "小部屋3",
+        "order": 26,
+        "parentId": 7,
+        "scrollX": 941,
+        "scrollY": 593.5
+    },
+    {
+        "id": 22,
+        "expanded": true,
+        "name": "廃墟第１階層廊下",
+        "order": 16,
+        "parentId": 6,
+        "scrollX": 968,
+        "scrollY": 581.3333333333334
+    },
+    {
+        "id": 23,
+        "expanded": false,
+        "name": "廃墟第１階層調理室",
+        "order": 15,
+        "parentId": 6,
+        "scrollX": 566,
+        "scrollY": 436
+    },
+    {
+        "id": 24,
+        "expanded": true,
+        "name": "プロローグ",
+        "order": 7,
+        "parentId": 0,
+        "scrollX": 941.3333333333334,
+        "scrollY": 741.3333333333334
+    },
+    {
+        "id": 25,
+        "expanded": true,
+        "name": "サンドイッチ店",
+        "order": 8,
+        "parentId": 24,
+        "scrollX": 941.3333333333334,
+        "scrollY": 1021.3333333333334
+    },
+    {
+        "id": 26,
+        "expanded": true,
+        "name": "アラカ第２階層_奈落",
+        "order": 54,
+        "parentId": 30,
+        "scrollX": 694,
+        "scrollY": 753
+    },
+    {
+        "id": 27,
+        "expanded": true,
+        "name": "ホラーパート",
+        "order": 13,
+        "parentId": 0,
+        "scrollX": 498,
+        "scrollY": 450.5
+    },
+    {
+        "id": 28,
+        "expanded": true,
+        "name": "奥殿１",
+        "order": 41,
+        "parentId": 5,
+        "scrollX": 756,
+        "scrollY": 1672.5
+    },
+    {
+        "id": 29,
+        "expanded": true,
+        "name": "グッドエンド？",
+        "order": 9,
+        "parentId": 24,
+        "scrollX": 831,
+        "scrollY": 636.6
+    },
+    {
+        "id": 30,
+        "expanded": true,
+        "name": "アラカ第２階層",
+        "order": 50,
+        "parentId": 5,
+        "scrollX": 498,
+        "scrollY": 450.5
+    },
+    {
+        "id": 31,
+        "expanded": true,
+        "name": "ヨミ_事務所",
+        "order": 10,
+        "parentId": 24,
+        "scrollX": 840.5999999999999,
+        "scrollY": 547.8
+    },
+    {
+        "id": 32,
+        "expanded": true,
+        "name": "ヨミ_街中",
+        "order": 12,
+        "parentId": 24,
+        "scrollX": 840.5999999999999,
+        "scrollY": 547.8
+    },
+    {
+        "id": 33,
+        "expanded": false,
+        "name": "ヨミ_駅前",
+        "order": 11,
+        "parentId": 24,
+        "scrollX": 840.5999999999999,
+        "scrollY": 547.8
+    },
+    {
+        "id": 34,
+        "expanded": true,
+        "name": "小部屋1",
+        "order": 23,
+        "parentId": 20,
+        "scrollX": 566,
+        "scrollY": 456.5
+    },
+    {
+        "id": 35,
+        "expanded": true,
+        "name": "廃墟第２階層廊下",
+        "order": 20,
+        "parentId": 7,
+        "scrollX": 566,
+        "scrollY": 428
+    },
+    {
+        "id": 36,
+        "expanded": true,
+        "name": "MAP036",
+        "order": 21,
+        "parentId": 7,
+        "scrollX": 952,
+        "scrollY": 592
+    },
+    {
+        "id": 37,
+        "expanded": true,
+        "name": "小部屋2",
+        "order": 24,
+        "parentId": 7,
+        "scrollX": 422,
+        "scrollY": 447
+    },
+    {
+        "id": 38,
+        "expanded": false,
+        "name": "クリスマス",
+        "order": 25,
+        "parentId": 37,
+        "scrollX": 566,
+        "scrollY": 456.5
+    },
+    {
+        "id": 39,
+        "expanded": true,
+        "name": "ホラー廃墟第２階層ゲームセンター",
+        "order": 27,
+        "parentId": 27,
+        "scrollX": 882,
+        "scrollY": 580
+    },
+    {
+        "id": 40,
+        "expanded": true,
+        "name": "アラカ第２階層廊下",
+        "order": 52,
+        "parentId": 30,
+        "scrollX": 498,
+        "scrollY": 442.5
+    },
+    {
+        "id": 41,
+        "expanded": true,
+        "name": "廃墟第２階層(アラカ)",
+        "order": 68,
+        "parentId": 42,
+        "scrollX": 1080,
+        "scrollY": 552
+    },
+    {
+        "id": 42,
+        "expanded": false,
+        "name": "体験版宣伝用",
+        "order": 67,
+        "parentId": 0,
+        "scrollX": 952,
+        "scrollY": 592
+    },
+    {
+        "id": 43,
+        "expanded": true,
+        "name": "奥殿１－２",
+        "order": 69,
+        "parentId": 42,
+        "scrollX": 696.6,
+        "scrollY": 561.6
+    },
+    {
+        "id": 44,
+        "expanded": true,
+        "name": "浄化槽",
+        "order": 70,
+        "parentId": 42,
+        "scrollX": 704,
+        "scrollY": 464
+    },
+    {
+        "id": 45,
+        "expanded": true,
+        "name": "ヨミイベント用廃墟第１階層",
+        "order": 17,
+        "parentId": 6,
+        "scrollX": 558,
+        "scrollY": 512
+    },
+    {
+        "id": 46,
+        "expanded": false,
+        "name": "遺物下着",
+        "order": 28,
+        "parentId": 39,
+        "scrollX": 566,
+        "scrollY": 456.5
+    },
+    {
+        "id": 47,
+        "expanded": true,
+        "name": "体験版部屋",
+        "order": 4,
+        "parentId": 1,
+        "scrollX": 498,
+        "scrollY": 450.5
+    },
+    {
+        "id": 48,
+        "expanded": false,
+        "name": "アラカ第４階層",
+        "order": 58,
+        "parentId": 5,
+        "scrollX": 978.6666666666666,
+        "scrollY": 581.3333333333334
+    },
+    {
+        "id": 49,
+        "expanded": true,
+        "name": "廃墟第５階層",
+        "order": 38,
+        "parentId": 9,
+        "scrollX": 1074,
+        "scrollY": 1183.5
+    },
+    {
+        "id": 50,
+        "expanded": true,
+        "name": "奥殿３",
+        "order": 44,
+        "parentId": 13,
+        "scrollX": 490,
+        "scrollY": 450.5
+    },
+    {
+        "id": 51,
+        "expanded": true,
+        "name": "奥殿４",
+        "order": 45,
+        "parentId": 50,
+        "scrollX": 941.3333333333334,
+        "scrollY": 645.3333333333334
+    },
+    {
+        "id": 52,
+        "expanded": true,
+        "name": "アラカ第２階層レンタルビデオ",
+        "order": 56,
+        "parentId": 30,
+        "scrollX": 490,
+        "scrollY": 569
+    },
+    {
+        "id": 53,
+        "expanded": false,
+        "name": "下水道",
+        "order": 48,
+        "parentId": 8,
+        "scrollX": 941.3333333333334,
+        "scrollY": 592
+    },
+    {
+        "id": 54,
+        "expanded": true,
+        "name": "アラカ第２階層トイレ",
+        "order": 53,
+        "parentId": 30,
+        "scrollX": 490,
+        "scrollY": 442.5
+    },
+    {
+        "id": 55,
+        "expanded": true,
+        "name": "アラカ第２階層ゲームセンター",
+        "order": 55,
+        "parentId": 30,
+        "scrollX": 1093,
+        "scrollY": 443
+    },
+    {
+        "id": 56,
+        "expanded": true,
+        "name": "アラカ第１階層廊下",
+        "order": 51,
+        "parentId": 30,
+        "scrollX": 948,
+        "scrollY": 439
+    },
+    {
+        "id": 57,
+        "expanded": true,
+        "name": "アラカ第３階層",
+        "order": 57,
+        "parentId": 5,
+        "scrollX": 1488,
+        "scrollY": 714.6666666666666
+    },
+    {
+        "id": 58,
+        "expanded": true,
+        "name": "アラカ廃墟第５階層パーティー会場",
+        "order": 59,
+        "parentId": 5,
+        "scrollX": 946.6666666666666,
+        "scrollY": 693.3333333333334
+    },
+    {
+        "id": 59,
+        "expanded": true,
+        "name": "アラカ第５階層厨房",
+        "order": 60,
+        "parentId": 58,
+        "scrollX": 978.6666666666666,
+        "scrollY": 1050.6666666666667
+    },
+    {
+        "id": 60,
+        "expanded": false,
+        "name": "ログイベント用部屋",
+        "order": 5,
+        "parentId": 1,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 61,
+        "expanded": false,
+        "name": "ホラー第４階層",
+        "order": 34,
+        "parentId": 27,
+        "scrollX": 882,
+        "scrollY": 944
+    },
+    {
+        "id": 62,
+        "expanded": false,
+        "name": "TheHouse2",
+        "order": 30,
+        "parentId": 10,
+        "scrollX": 498,
+        "scrollY": 456.5
+    },
+    {
+        "id": 63,
+        "expanded": true,
+        "name": "TheHouse3",
+        "order": 36,
+        "parentId": 9,
+        "scrollX": 422,
+        "scrollY": 432.5
+    },
+    {
+        "id": 64,
+        "expanded": false,
+        "name": "MAP064",
+        "order": 37,
+        "parentId": 63,
+        "scrollX": 490,
+        "scrollY": 1904.5
+    },
+    {
+        "id": 65,
+        "expanded": true,
+        "name": "仮マップ",
+        "order": 71,
+        "parentId": 0,
+        "scrollX": 597.6,
+        "scrollY": 547.8
+    },
+    {
+        "id": 66,
+        "expanded": false,
+        "name": "淫舞の道",
+        "order": 61,
+        "parentId": 58,
+        "scrollX": 941.3333333333334,
+        "scrollY": 592
+    },
+    {
+        "id": 67,
+        "expanded": true,
+        "name": "エンディング用",
+        "order": 62,
+        "parentId": 5,
+        "scrollX": 498,
+        "scrollY": 450.5
+    },
+    {
+        "id": 68,
+        "expanded": false,
+        "name": "主人公のアパート",
+        "order": 64,
+        "parentId": 67,
+        "scrollX": 1366.8,
+        "scrollY": 553.1999999999999
+    },
+    {
+        "id": 69,
+        "expanded": false,
+        "name": "帰り道",
+        "order": 65,
+        "parentId": 67,
+        "scrollX": 952,
+        "scrollY": 592
+    },
+    {
+        "id": 70,
+        "expanded": true,
+        "name": "葬式エンド階段",
+        "order": 73,
+        "parentId": 65,
+        "scrollX": 498,
+        "scrollY": 449.5
+    },
+    {
+        "id": 71,
+        "expanded": false,
+        "name": "桜エンド教室",
+        "order": 74,
+        "parentId": 65,
+        "scrollX": 952,
+        "scrollY": 592
+    },
+    {
+        "id": 72,
+        "expanded": false,
+        "name": "柱エンド屋上",
+        "order": 75,
+        "parentId": 65,
+        "scrollX": 588,
+        "scrollY": 538.1999999999999
+    },
+    {
+        "id": 73,
+        "expanded": false,
+        "name": "奥殿４敗北リスポン下水道",
+        "order": 49,
+        "parentId": 8,
+        "scrollX": 422,
+        "scrollY": 447
+    },
+    {
+        "id": 74,
+        "expanded": false,
+        "name": "EV_遺物ブラジャー",
+        "order": 78,
+        "parentId": 65,
+        "scrollX": 1366.8,
+        "scrollY": 553.1999999999999
+    },
+    {
+        "id": 75,
+        "expanded": false,
+        "name": "EV_トレーニングルーム",
+        "order": 76,
+        "parentId": 65,
+        "scrollX": 1366.8,
+        "scrollY": 553.1999999999999
+    },
+    {
+        "id": 76,
+        "expanded": false,
+        "name": "EV_路地",
+        "order": 77,
+        "parentId": 65,
+        "scrollX": 498,
+        "scrollY": 450.5
+    },
+    {
+        "id": 77,
+        "expanded": true,
+        "name": "廃墟屋上・社(桜エンド)",
+        "order": 32,
+        "parentId": 11,
+        "scrollX": 710,
+        "scrollY": 584.5
+    },
+    {
+        "id": 78,
+        "expanded": true,
+        "name": "廃墟屋上・社(カーラエンド)",
+        "order": 33,
+        "parentId": 11,
+        "scrollX": 786,
+        "scrollY": 516.5
+    },
+    {
+        "id": 79,
+        "expanded": false,
+        "name": "照明リセット用小部屋",
+        "order": 79,
+        "parentId": 65,
+        "scrollX": 422,
+        "scrollY": 447
+    },
+    {
+        "id": 80,
+        "expanded": true,
+        "name": "アラカの末路",
+        "order": 80,
+        "parentId": 65,
+        "scrollX": 422,
+        "scrollY": 447
+    }
+]

@@ -1,0 +1,4925 @@
+[
+    null,
+    {
+        "id": 1,
+        "members": [
+            {
+                "enemyId": 1,
+                "x": 195,
+                "y": 421,
+                "hidden": false
+            },
+            {
+                "enemyId": 2,
+                "x": 411,
+                "y": 444,
+                "hidden": false
+            },
+            {
+                "enemyId": 1,
+                "x": 312,
+                "y": 382,
+                "hidden": false
+            }
+        ],
+        "name": "醜鬼×3",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 122,
+                        "indent": 0,
+                        "parameters": [
+                            93,
+                            93,
+                            0,
+                            3,
+                            4,
+                            0,
+                            4
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            61
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": true,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            734
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            732
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            736
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 1
+            },
+            {
+                "conditions": {
+                    "actorHp": 33,
+                    "actorId": 1,
+                    "actorValid": true,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            735
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "members": [
+            {
+                "enemyId": 4,
+                "x": 113,
+                "y": 439,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 262,
+                "y": 403,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 216,
+                "y": 361,
+                "hidden": false
+            }
+        ],
+        "name": "メコイジメ×3",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 122,
+                        "indent": 0,
+                        "parameters": [
+                            93,
+                            93,
+                            0,
+                            3,
+                            4,
+                            0,
+                            4
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            61
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": true,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            734
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            732
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            736
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 1
+            },
+            {
+                "conditions": {
+                    "actorHp": 33,
+                    "actorId": 1,
+                    "actorValid": true,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            735
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "members": [
+            {
+                "enemyId": 7,
+                "x": 225,
+                "y": 444,
+                "hidden": false
+            }
+        ],
+        "name": "オネブリサン",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 122,
+                        "indent": 0,
+                        "parameters": [
+                            93,
+                            93,
+                            0,
+                            3,
+                            4,
+                            0,
+                            4
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            61
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": true,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            734
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            732
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            736
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 1
+            },
+            {
+                "conditions": {
+                    "actorHp": 33,
+                    "actorId": 1,
+                    "actorValid": true,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            735
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "members": [
+            {
+                "enemyId": 13,
+                "x": 231,
+                "y": 444,
+                "hidden": false
+            },
+            {
+                "enemyId": 13,
+                "x": 418,
+                "y": 355,
+                "hidden": false
+            }
+        ],
+        "name": "溢れ髪×2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 122,
+                        "indent": 0,
+                        "parameters": [
+                            93,
+                            93,
+                            0,
+                            3,
+                            4,
+                            0,
+                            4
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            61
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": true,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            734
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            732
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            736
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 1
+            },
+            {
+                "conditions": {
+                    "actorHp": 33,
+                    "actorId": 1,
+                    "actorValid": true,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            735
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "members": [
+            {
+                "enemyId": 4,
+                "x": 301,
+                "y": 349,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 155,
+                "y": 382,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 220,
+                "y": 444,
+                "hidden": false
+            }
+        ],
+        "name": "淫卑蟲の群れ1",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 122,
+                        "indent": 0,
+                        "parameters": [
+                            93,
+                            93,
+                            0,
+                            3,
+                            4,
+                            0,
+                            4
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            61
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": true,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            734
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            732
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            736
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 1
+            },
+            {
+                "conditions": {
+                    "actorHp": 33,
+                    "actorId": 1,
+                    "actorValid": true,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            735
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "members": [
+            {
+                "enemyId": 5,
+                "x": 147,
+                "y": 444,
+                "hidden": false
+            },
+            {
+                "enemyId": 5,
+                "x": 360,
+                "y": 421,
+                "hidden": false
+            },
+            {
+                "enemyId": 5,
+                "x": 234,
+                "y": 346,
+                "hidden": false
+            }
+        ],
+        "name": "メコイジメ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 122,
+                        "indent": 0,
+                        "parameters": [
+                            93,
+                            93,
+                            0,
+                            3,
+                            4,
+                            0,
+                            4
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            61
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": true,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            734
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            732
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            736
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 1
+            },
+            {
+                "conditions": {
+                    "actorHp": 33,
+                    "actorId": 1,
+                    "actorValid": true,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            735
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "members": [
+            {
+                "enemyId": 8,
+                "x": 240,
+                "y": 444,
+                "hidden": false
+            }
+        ],
+        "name": "影手",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 122,
+                        "indent": 0,
+                        "parameters": [
+                            93,
+                            93,
+                            0,
+                            3,
+                            4,
+                            0,
+                            4
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            61
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": true,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            734
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            732
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            736
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 1
+            },
+            {
+                "conditions": {
+                    "actorHp": 33,
+                    "actorId": 1,
+                    "actorValid": true,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            735
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "members": [
+            {
+                "enemyId": 4,
+                "x": 172,
+                "y": 349,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 116,
+                "y": 382,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 160,
+                "y": 444,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 425,
+                "y": 352,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 319,
+                "y": 444,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 264,
+                "y": 331,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 255,
+                "y": 394,
+                "hidden": false
+            },
+            {
+                "enemyId": 4,
+                "x": 405,
+                "y": 408,
+                "hidden": false
+            }
+        ],
+        "name": "淫卑蟲の群れ2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 122,
+                        "indent": 0,
+                        "parameters": [
+                            93,
+                            93,
+                            0,
+                            3,
+                            4,
+                            0,
+                            4
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            61
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": true,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            734
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            732
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            736
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 1
+            },
+            {
+                "conditions": {
+                    "actorHp": 33,
+                    "actorId": 1,
+                    "actorValid": true,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            735
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "members": [
+            {
+                "enemyId": 13,
+                "x": 159,
+                "y": 444,
+                "hidden": false
+            },
+            {
+                "enemyId": 13,
+                "x": 511,
+                "y": 388,
+                "hidden": false
+            },
+            {
+                "enemyId": 13,
+                "x": 255,
+                "y": 316,
+                "hidden": false
+            }
+        ],
+        "name": "奥殿1",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 122,
+                        "indent": 0,
+                        "parameters": [
+                            93,
+                            93,
+                            0,
+                            3,
+                            4,
+                            0,
+                            4
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            61
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": true,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            734
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            732
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            736
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 1
+            },
+            {
+                "conditions": {
+                    "actorHp": 33,
+                    "actorId": 1,
+                    "actorValid": true,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            735
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "members": [
+            {
+                "enemyId": 14,
+                "x": 234,
+                "y": 403,
+                "hidden": false
+            }
+        ],
+        "name": "奥殿2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 122,
+                        "indent": 0,
+                        "parameters": [
+                            93,
+                            93,
+                            0,
+                            3,
+                            4,
+                            0,
+                            4
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            61
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": true,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            734
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            732
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            736
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 1
+            },
+            {
+                "conditions": {
+                    "actorHp": 33,
+                    "actorId": 1,
+                    "actorValid": true,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            735
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "members": [
+            {
+                "enemyId": 15,
+                "x": 309,
+                "y": 444,
+                "hidden": false
+            }
+        ],
+        "name": "奥殿3",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 122,
+                        "indent": 0,
+                        "parameters": [
+                            93,
+                            93,
+                            0,
+                            3,
+                            4,
+                            0,
+                            4
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            61
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": true,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            734
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            732
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            736
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 1
+            },
+            {
+                "conditions": {
+                    "actorHp": 33,
+                    "actorId": 1,
+                    "actorValid": true,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            735
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "members": [
+            {
+                "enemyId": 16,
+                "x": 213,
+                "y": 444,
+                "hidden": false
+            }
+        ],
+        "name": "奥殿4",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 122,
+                        "indent": 0,
+                        "parameters": [
+                            93,
+                            93,
+                            0,
+                            3,
+                            4,
+                            0,
+                            4
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            61
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": true,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            734
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            732
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            736
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 1
+            },
+            {
+                "conditions": {
+                    "actorHp": 33,
+                    "actorId": 1,
+                    "actorValid": true,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            735
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "members": [
+            {
+                "enemyId": 18,
+                "x": 216,
+                "y": 444,
+                "hidden": false
+            }
+        ],
+        "name": "1F廊下",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 122,
+                        "indent": 0,
+                        "parameters": [
+                            93,
+                            93,
+                            0,
+                            3,
+                            4,
+                            0,
+                            4
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            61
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            1,
+                            1
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "※戦闘について"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "本ゲームの攻撃スキルには\\I[77]物理・\\I[70]聖・\\I[71]闇・\\I[84]粘膜接触の"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "4属性があります。淫界の敵は、すべて\\I[70]聖属性に弱く、"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\I[71]闇属性に強力な耐性、\\I[77]物理属性にもやや耐性をもっています。"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            1,
+                            1
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "初期状態では、アラカの攻撃スキルは\\I[77]物理・\\I[70]聖属性で構成"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "されているので、淫界の悪霊・妖魔へダメージは与えやすいです。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "しかし……、アラカの穢れが進行するとスキルも\\I[71]闇属性に"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "変質してしまうことがあるのでご注意ください。"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            1,
+                            1
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "※アラカの耐性について"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "アラカは、\\I[84]粘膜接触属性が弱点です。敵は、アラカが健在なら"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\I[84]粘膜接触属性の攻撃をできません。"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            1,
+                            1
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "しかし、アラカが転んだり、拘束されたり、絶頂してへっぴり腰に"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "なったりすると、すかさず、\\I[84]粘液接触攻撃をおこなってきます。"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            1,
+                            1
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "\\I[72]アイコンのバフスキルを使うと一時的に転倒や拘束に耐性が"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "でき、能力値もアップするので有効にご活用ください。"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "※バフスキルも穢れが進行すると喪失するのでご注意下さい。"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            1,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "最後に、本ゲームではラスボスを除き、戦闘に敗北しても、"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "アラカが酷い目にあったり、穢れによる弱体化がすすむだけで、"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ゲームは進行します。"
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": true,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            737
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            734
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            732
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            736
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 1
+            },
+            {
+                "conditions": {
+                    "actorHp": 33,
+                    "actorId": 1,
+                    "actorValid": true,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 1,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            735
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    }
+]
