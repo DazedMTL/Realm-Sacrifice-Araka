@@ -9819,8 +9819,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "もどる",
-                                    "すすむ"
+                                    "Return",
+                                    "Proceed"
                                 ],
                                 0,
                                 0,

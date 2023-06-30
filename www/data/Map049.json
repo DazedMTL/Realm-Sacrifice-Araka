@@ -8619,8 +8619,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9284,8 +9284,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "振り返る",
-                                    "振り返らない"
+                                    "Turn around",
+                                    "Do not look back"
                                 ],
                                 1,
                                 0,

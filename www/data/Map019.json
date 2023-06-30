@@ -2483,8 +2483,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "拭いてもらう",
-                                    "拭いてもらわない"
+                                    "To be wiped",
+                                    "Not wiping"
                                 ],
                                 1,
                                 0,
@@ -4156,8 +4156,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "次の階層に進む",
-                                    "他の階層へ行く"
+                                    "Proceed to the next level",
+                                    "Go to another level"
                                 ],
                                 1,
                                 0,
@@ -4382,8 +4382,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "次の階層に進む",
-                                    "他の階層へ行く"
+                                    "Proceed to the next level",
+                                    "Go to another level"
                                 ],
                                 1,
                                 0,
@@ -4584,8 +4584,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "次の階層に進む",
-                                    "他の階層へ行く"
+                                    "Proceed to the next level",
+                                    "Go to another level"
                                 ],
                                 1,
                                 0,

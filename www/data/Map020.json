@@ -4809,8 +4809,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "拾う",
-                                    "そのままにする"
+                                    "Pick up",
+                                    "Leave it as it is"
                                 ],
                                 1,
                                 0,
@@ -5263,8 +5263,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "侵入する",
-                                    "やめておく"
+                                    "To invade",
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -6045,8 +6045,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "札を取る",
-                                    "この場を離れる"
+                                    "Take the card",
+                                    "Leave this place"
                                 ],
                                 1,
                                 0,

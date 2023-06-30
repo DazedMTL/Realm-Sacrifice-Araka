@@ -3658,8 +3658,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "振り向く",
-                                    "振り向かない"
+                                    "Turn around",
+                                    "Don't look back"
                                 ],
                                 1,
                                 0,

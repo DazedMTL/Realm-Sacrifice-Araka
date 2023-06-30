@@ -8890,8 +8890,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "先へ進む",
-                                    "進まない"
+                                    "Go forward",
+                                    "Not progressing"
                                 ],
                                 1,
                                 0,
@@ -9295,8 +9295,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "先へ進む",
-                                    "進まない"
+                                    "Go forward",
+                                    "Not progressing"
                                 ],
                                 1,
                                 0,
