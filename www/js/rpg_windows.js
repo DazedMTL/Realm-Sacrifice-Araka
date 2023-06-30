@@ -47,7 +47,7 @@ Window_Base.prototype.standardFontFace = function () {
 };
 
 Window_Base.prototype.standardFontSize = function () {
-    return 22;
+    return 20;
 };
 
 Window_Base.prototype.standardPadding = function () {
@@ -83,7 +83,7 @@ Window_Base.prototype.contentsHeight = function () {
 };
 
 Window_Base.prototype.fittingHeight = function (numLines) {
-    return numLines * this.lineHeight() + this.standardPadding() * 2;
+    return numLines * this.lineHeight() + 18 + this.standardPadding() * 2;
 };
 
 Window_Base.prototype.updateTone = function () {
