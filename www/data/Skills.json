@@ -625,7 +625,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Passive skill that significantly enhances Alaka's spiritual\npower",
+        "description": "Passive skill that significantly enhances Araka's spiritual\npower",
         "effects": [],
         "hitType": 0,
         "iconIndex": 72,
@@ -765,7 +765,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Alaka's ultimate technique. Deals massive holy attribute\ndamage to all enemies",
+        "description": "Araka's ultimate technique. Deals massive holy attribute\ndamage to all enemies",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -825,7 +825,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The 'Purifying Soul Bath' has undergone a transformation.\nDue to the lingering memories of prolonged suffering,\nAlaka's durability increases but their attack power\nsignificantly decreases",
+        "description": "The 'Purifying Soul Bath' has undergone a transformation.\nDue to the lingering memories of prolonged suffering,\nAraka's durability increases but their attack power\nsignificantly decreases",
         "effects": [],
         "hitType": 0,
         "iconIndex": 71,
@@ -1005,7 +1005,7 @@
             "type": 4,
             "variance": 20
         },
-        "description": "Absorb the spiritual energy and miasma in the surroundings\nto restore physical and magical power. The impure Alaka\nbecomes strongly aroused",
+        "description": "Absorb the spiritual energy and miasma in the surroundings\nto restore physical and magical power. The impure Araka\nbecomes strongly aroused",
         "effects": [
             {
                 "code": 13,
@@ -2467,7 +2467,7 @@
         ],
         "hitType": 0,
         "iconIndex": 105,
-        "message1": " countless hands play with Alaka!",
+        "message1": " countless hands play with Araka!",
         "message2": "",
         "mpCost": 0,
         "name": "Countless Hands",
@@ -3232,7 +3232,7 @@
         ],
         "hitType": 1,
         "iconIndex": 76,
-        "message1": " slapped Alaka!",
+        "message1": " slapped Araka!",
         "message2": "",
         "mpCost": 0,
         "name": "Strike",
