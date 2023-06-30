@@ -378,7 +378,7 @@ Imported.TMLogWindow = true;
 	};
 
 	Window_MapLog.prototype.standardFontSize = function () {
-		return logWindowFontSize;
+		return 10;
 	};
 
 	// ウィンドウの幅を取得
