@@ -3,7 +3,7 @@
     {
         "id": 1,
         "animationId": 1,
-        "description": "物理で殴る",
+        "description": "Hitting with physics",
         "etypeId": 1,
         "traits": [
             {
@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 77,
-        "name": "拳",
+        "name": "Fist",
         "note": "",
         "params": [
             0,
@@ -36,7 +36,7 @@
     {
         "id": 2,
         "animationId": 5,
-        "description": "土産もの",
+        "description": "Souvenir",
         "etypeId": 1,
         "traits": [
             {
@@ -51,7 +51,7 @@
             }
         ],
         "iconIndex": 109,
-        "name": "金剛杵（みやげ物）",
+        "name": "Vajra Club (souvenir)",
         "note": "",
         "params": [
             0,
@@ -84,7 +84,7 @@
             }
         ],
         "iconIndex": 188,
-        "name": "護符（石入り）",
+        "name": "Amulet (Stone-embedded)",
         "note": "",
         "params": [
             0,

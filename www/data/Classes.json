@@ -62,7 +62,7 @@
                 "skillId": 11
             }
         ],
-        "name": "学生",
+        "name": "Student",
         "note": "",
         "params": [
             [
@@ -1140,7 +1140,7 @@
                 "skillId": 33
             }
         ],
-        "name": "退魔師",
+        "name": "Exorcist",
         "note": "",
         "params": [
             [

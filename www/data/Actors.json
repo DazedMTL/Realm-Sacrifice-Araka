@@ -15,7 +15,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "主人公",
+        "name": "Protagonist",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -50,7 +50,7 @@
         "traits": [],
         "initialLevel": 27,
         "maxLevel": 99,
-        "name": "アラカ",
+        "name": "Araka",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -73,7 +73,7 @@
         "name": "？？？",
         "nickname": "",
         "note": "",
-        "profile": "何かがいる気がする……"
+        "profile": "I have a feeling that something is here..."
     },
     {
         "id": 4,
@@ -90,7 +90,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "カーラ",
+        "name": "Carla",
         "nickname": "",
         "note": "",
         "profile": ""
