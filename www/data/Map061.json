@@ -5491,21 +5491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "５階へと進むドアのようだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "押しても引いてもびくともしない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやら鍵がかかっているようだ。"
+                                "It seems to be a door leading to the 5th floor, but no matter how much\nI push or pull, it won't budge. It appears to be locked."
                             ]
                         },
                         {
@@ -5585,21 +5571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金庫から得た鍵を鍵穴に差し込んでみると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鍵は容易に開いた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "扉も、錆びついてはいるが、やはり容易に開く。"
+                                "When I inserted the key I obtained from the safe into the keyhole, the\nlock easily opened. The door, although rusty, also opened easily."
                             ]
                         },
                         {
@@ -5616,28 +5588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……誘い込まれているのだろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あるいは、これが異界の習性なのだろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分のようなちっぽけなものを、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この異界は認識しているのだろうか。"
+                                "......Am I being lured in? Or perhaps, is this the nature of the other\nworld? Does this other world recognize someone as insignificant as\nmyself?"
                             ]
                         },
                         {
@@ -5937,28 +5888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカの力か、扉が開いた気配があった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……『帰りなさい』という思いを、無視している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっとアラカが見たら、烈火のごとく怒るだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "――怒ってもらうために、扉を開く。"
+                                "It felt like the door opened, perhaps because of Araka's power...\nIgnoring the thought of go back. If Araka were to see it, she would\nsurely be furious like a raging fire. To make her angry, I will open\nthe door."
                             ]
                         },
                         {
@@ -7376,14 +7306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……『金庫』は既に暴かれている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう、探る価値はない。"
+                                "......The safe has already been opened. There is no longer any value in\nsearching."
                             ]
                         },
                         {
@@ -7451,14 +7374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金庫がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……触る気には、ましてや開ける気には、なれない。"
+                                "There is a safe. ... I have no intention of touching it, let alone\nopening it."
                             ]
                         },
                         {
@@ -9125,7 +9041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暗闇の中で何かがきらめいた。"
+                                "Something sparkled in the darkness."
                             ]
                         },
                         {
@@ -9142,14 +9058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気になって近づいてみると、宝珠のようなものが落ちている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おそらく数珠としてつながれていたもの一つのようだ。"
+                                "When I approached out of curiosity, I found something like a jewel\nlying there. It seemed to be one of the beads that were probably\nconnected as a rosary."
                             ]
                         },
                         {
@@ -9166,7 +9075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宝珠に触れますか？"
+                                "Do you touch the jewel?"
                             ]
                         },
                         {
@@ -9558,14 +9467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "歩いていると、ふと、甘いにおいを感じた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腐ったような甘さではなく、どこか清冽な――"
+                                "As I was walking, I suddenly smelled something sweet. It wasn't a\nrotten sweetness, but rather somewhere refreshing."
                             ]
                         },
                         {
@@ -9582,21 +9484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かび臭さに鼻が馬鹿になったと思っていたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやらまだそれが分かるくらいではあったらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "――これは、アラカのにおいだ。"
+                                "I thought my nose had become foolishly accustomed to the smell of\nmold, but it seems that I can still recognize it to some extent. This\nis the smell of Araka."
                             ]
                         },
                         {
@@ -9613,14 +9501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "周囲を見渡せば、きらり、と光るものがあった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは――ビー玉かなにかの破片だろうか？"
+                                "When I looked around, there was something sparkling. Could this be...\na piece of a glass marble or something?"
                             ]
                         },
                         {
@@ -9637,7 +9518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "破片を拾い上げますか？"
+                                "Will you pick up the fragment?"
                             ]
                         },
                         {
@@ -9706,14 +9587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "拾い上げると、においは薄れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あるいは最初から、においなどなかったのかもしれない。"
+                                "When I picked it up, the smell faded. Or perhaps there was\nno smell to begin with."
                             ]
                         },
                         {
@@ -9730,14 +9604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……映像などは感じ取れない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただただ、アラカの心だけが、伝わってきた。"
+                                "......I couldn't perceive any visuals or anything. Only Araka's\nheart was conveyed to me."
                             ]
                         },
                         {
@@ -11000,14 +10867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通電している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやら、下には降りられそうだ。"
+                                "The power is on. It seems like we can go down below."
                             ]
                         },
                         {
@@ -11500,7 +11360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………！？」"
+                                "「............！？」"
                             ]
                         },
                         {
@@ -11629,7 +11489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……？　なんともない……？」"
+                                "...? There's nothing wrong...?"
                             ]
                         },
                         {

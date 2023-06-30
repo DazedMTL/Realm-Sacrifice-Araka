@@ -5758,7 +5758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暗闇の中で何かがきらめいた。"
+                                "Something sparkled in the darkness."
                             ]
                         },
                         {
@@ -5775,14 +5775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気になって近づいてみると、宝珠のようなものが落ちている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おそらく数珠としてつながれていたもの一つのようだ。"
+                                "When I approached out of curiosity, I found something like a jewel\nlying there. It seemed to be one of the beads that were probably\nconnected as a rosary."
                             ]
                         },
                         {
@@ -5799,7 +5792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宝珠に触れますか？"
+                                "Do you touch the jewel?"
                             ]
                         },
                         {
@@ -6023,7 +6016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暗闇の中で何かがきらめいた。"
+                                "Something sparkled in the darkness."
                             ]
                         },
                         {
@@ -6040,14 +6033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気になって近づいてみると、宝珠のようなものが落ちている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おそらく数珠としてつながれていたもの一つのようだ。"
+                                "When I approached out of curiosity, I found something like a jewel\nlying there. It seemed to be one of the beads that were probably\nconnected as a rosary."
                             ]
                         },
                         {
@@ -6064,7 +6050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宝珠に触れますか？"
+                                "Do you touch the jewel?"
                             ]
                         },
                         {

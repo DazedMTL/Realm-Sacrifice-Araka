@@ -2458,7 +2458,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(…………)"
+                                "(............)"
                             ]
                         },
                         {
@@ -2475,7 +2475,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(身体……拭いてあげようか？)"
+                                "(Shall I wipe your body for you?"
                             ]
                         },
                         {
@@ -2633,7 +2633,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「あ……っ❤」"
+                                "Ah... ❤"
                             ]
                         },
                         {
@@ -2667,14 +2667,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ふ……♥　く……っ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　んっ♥　は……う゛ぅ……っ♥♥ ん゛っ♥♥」"
+                                "Fu... ♥ Ku... ♥ Nn... ♥ Ha... ugh... ♥♥ Ngh... ♥♥"
                             ]
                         },
                         {
@@ -2815,7 +2808,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「アラカ、大丈夫？　まだひとりで歩ける？　心は折れてなぁい？」"
+                                "Araka, are you okay? Can you still walk alone? Is your spirit not\nbroken?"
                             ]
                         },
                         {
@@ -2872,7 +2865,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「…………っ」"
+                                "........"
                             ]
                         },
                         {
@@ -2889,7 +2882,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「返事もしてくれないなんて。つれないなー」"
+                                "You're so cold, not even replying."
                             ]
                         },
                         {
@@ -3040,7 +3033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（媚毒入りの腐った精液、おいしそうに飲んでたわね♥）"
+                                "(You were drinking the poisoned and rotten semen so deliciously,\nweren't you? ♥)"
                             ]
                         },
                         {
@@ -3982,21 +3975,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アラカが意識を失うまで犯されると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この部屋にリスポーンします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この部屋の出口からは、開放済みのすべての階層に転移できます。"
+                                "Until Araka loses consciousness and is violated, she will\nrespawn in this room. From the exit of this room, you can transfer to\nall unlocked levels."
                             ]
                         },
                         {
@@ -4013,14 +3992,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "一度、この部屋からでるともう一度敗北するまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この部屋には戻れないのでご注意ください。"
+                                "Once you leave this room, please note that you won't be able to return\nuntil you are defeated again."
                             ]
                         },
                         {
@@ -4122,14 +4094,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(そうそう！　アラカが弱っちくやられちゃったあと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "次の階層への道を見つけたわ)"
+                                "(That's right! After Araka was weakly defeated, I found the way to the\nnext level."
                             ]
                         },
                         {
@@ -4146,7 +4111,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(連れて行ってあげてもいいけどどうする？)"
+                                "(I can take you there, but what will you do?"
                             ]
                         },
                         {
@@ -4175,21 +4140,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "第３階層が解放されました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本マップの出口および各マップのエレベーターから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "第３階層へいつでも転移できます。"
+                                "The third level has been unlocked. You can transfer to\nthe third level anytime from the exit of this map and the elevators in\neach map."
                             ]
                         },
                         {
@@ -4362,14 +4313,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(あ、そうだ！　アラカを運び出すときに、次の階層へ進めそうな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "道を見つけておいたわ)"
+                                "(Ah, I remember! I found a path that seems to lead to the next level\nwhen we carry Araka out."
                             ]
                         },
                         {
@@ -4393,7 +4337,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(行きたいなら連れて行ってあげてもいいわよ)"
+                                "(If you want to go, I can take you there."
                             ]
                         },
                         {
@@ -4422,21 +4366,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "第４階層が解放されました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本マップの出口および各マップのエレベーターから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "第４階層へいつでも転移できます。"
+                                "The 4th level has been unlocked. You can teleport to the 4th level\nanytime from the exit of this map and the elevators in each map."
                             ]
                         },
                         {
@@ -4609,7 +4539,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(次の階層への道もみつけておいたわよ。)"
+                                "(I have also found a way to the next level."
                             ]
                         },
                         {
@@ -4638,21 +4568,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "第５階層が解放されました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本マップの出口および各マップのエレベーターから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "第５階層へいつでも転移できます。"
+                                "The 5th level has been unlocked. You can transfer to the 5th level\nanytime from the exit of this map and the elevator in each map."
                             ]
                         },
                         {
@@ -4699,14 +4615,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "(……今までより危険だって本能的に感じるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あなた弱っちいんだから気をつけなさいよ)"
+                                "(......I instinctively feel that it's more dangerous than before. You're\nweak, so be careful."
                             ]
                         },
                         {
@@ -4952,7 +4861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おっぱいでもあげに行くの？」"
+                                "Are you going to give me your breasts?"
                             ]
                         },
                         {
@@ -5020,7 +4929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……！？　な、何を言って……！」"
+                                "...!? W-What are you saying...!"
                             ]
                         },
                         {
@@ -5077,14 +4986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だって、アラカが産んだ仔たちじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お腹を痛めて産んだ仔を忘れたりはしないわよね？」"
+                                "But, aren't they the children that Araka gave birth to? You wouldn't\nforget the children you bore and suffered for, right?"
                             ]
                         },
                         {

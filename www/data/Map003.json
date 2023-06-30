@@ -1628,7 +1628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "全ての装備を追加します"
+                                "I will add all the equipment."
                             ]
                         },
                         {
@@ -2108,7 +2108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "a1をゲット"
+                                "Get a1."
                             ]
                         },
                         {
@@ -3107,7 +3107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベントテスト"
+                                "Event test"
                             ]
                         },
                         {
@@ -3213,7 +3213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "２４４tkmそろばんの固有変数+1"
+                                "244tkm soroban's specific variable +1"
                             ]
                         },
                         {
@@ -3301,7 +3301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "２４４tkmそろばんの固有変数リセット"
+                                "Resetting the unique variables of the 244tkm soroban."
                             ]
                         },
                         {
@@ -3963,7 +3963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "変数３だよ！"
+                                "Variable 3!"
                             ]
                         },
                         {
@@ -3998,7 +3998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "変数５だよ！"
+                                "Variable 5!"
                             ]
                         },
                         {
@@ -5584,7 +5584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰かの記憶テスト"
+                                "Someone's memory test"
                             ]
                         },
                         {
@@ -5846,7 +5846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "全ての装備を追加します"
+                                "I will add all the equipment."
                             ]
                         },
                         {
@@ -6586,7 +6586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "除霊札(石入り)を手に入れた！"
+                                "I obtained a talisman for exorcism (with a stone inside)!"
                             ]
                         },
                         {
@@ -6917,7 +6917,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "見立て系全部ON"
+                                "All the assessment types are ON."
                             ]
                         },
                         {
@@ -6977,7 +6977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "見立て系全部OFF"
+                                "All the assessment types are OFF."
                             ]
                         },
                         {
@@ -7135,7 +7135,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しとつ"
+                                "shitsutsu"
                             ]
                         },
                         {
@@ -7161,7 +7161,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だげきひっさつ１"
+                                "Ultimate Strike 1"
                             ]
                         },
                         {
@@ -7187,7 +7187,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ひかりたんたい１"
+                                "Hikari-tan Tai 1"
                             ]
                         },
                         {
@@ -7213,7 +7213,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ひかりたんたい２"
+                                "Hikari-tan Tai 2"
                             ]
                         },
                         {
@@ -7239,7 +7239,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ひかりのはしら１"
+                                "Hikari no Hashira 1 >> Pillar of Light 1"
                             ]
                         },
                         {
@@ -7265,7 +7265,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ひかりのはしら２"
+                                "Pillar of Light 2"
                             ]
                         },
                         {
@@ -7291,7 +7291,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ひかりのたま"
+                                "Hikari no tama >> Light's Sphere"
                             ]
                         },
                         {
@@ -7327,7 +7327,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "テストしたいイベントON"
+                                "I want to test the event ON."
                             ]
                         },
                         {
@@ -7623,21 +7623,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "変数宣言　：\\V[5]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こゆう　　：\\V[241]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "かいそう　：\\V[341]"
+                                "Variable declaration: \\V[5] This type, \\V[241] Assembly, \\V[341]\nCombination"
                             ]
                         },
                         {
@@ -7675,21 +7661,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "変数宣言　：\\V[5]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こゆう　　：\\V[241]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "かいそう　：\\V[341]"
+                                "Variable declaration: \\V[5] This type, \\V[241] Assembly, \\V[341]\nCombination"
                             ]
                         },
                         {
@@ -7887,7 +7859,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「誰かの記憶」を持っています"
+                                "I have someone's memory."
                             ]
                         },
                         {
@@ -7966,7 +7938,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「誰かの記憶」を持ってませんわよ"
+                                "I don't have someone's memory."
                             ]
                         },
                         {
@@ -8486,21 +8458,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "変数宣言　：\\V[5]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こゆう　　：\\V[241]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "かいそう　：\\V[341]"
+                                "Variable declaration: \\V[5] This type, \\V[241] Assembly, \\V[341]\nCombination"
                             ]
                         },
                         {
@@ -8538,21 +8496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "変数宣言　：\\V[5]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こゆう　　：\\V[241]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "かいそう　：\\V[341]"
+                                "Variable declaration: \\V[5] This type, \\V[241] Assembly, \\V[341]\nCombination"
                             ]
                         },
                         {
@@ -8750,7 +8694,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「誰かの記憶」を持っています"
+                                "I have someone's memory."
                             ]
                         },
                         {
@@ -8829,7 +8773,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「誰かの記憶」を持ってませんわよ"
+                                "I don't have someone's memory."
                             ]
                         },
                         {
@@ -9249,28 +9193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふわふわと白い札が浮いてる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "異様な光景ではあるが、禍々しさは感じない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それどころか、なにもかもが穢れているこの廃ビルの中において、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "始めてみる清浄なもののように思える。"
+                                "Fluffy white cards are floating. It is an unusual sight, but there is\nno sense of ominousness. On the contrary, everything in this abandoned\nbuilding, which is filled with filth, seems to be the first pure thing\nI have ever seen."
                             ]
                         },
                         {
@@ -9287,7 +9210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──加えて、それはアラカの護符によく似ていた。"
+                                "──In addition, it closely resembled Araka's amulet."
                             ]
                         },
                         {
@@ -9347,14 +9270,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「これ以上すすんでは駄目。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "君も──戻れなくなってしまうから」"
+                                "You must not proceed any further. Because you too... will become\nunable to return."
                             ]
                         },
                         {
@@ -9371,7 +9287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「今すぐ1階に戻って──」"
+                                "Go back to the first floor right now──"
                             ]
                         },
                         {
@@ -9388,14 +9304,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ビルの入り口でこれを使って──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "──今ならまだ戻れるから……」"
+                                "Use this at the entrance of the building... You can still go back\nnow..."
                             ]
                         },
                         {
@@ -9453,7 +9362,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アラカの護符を手に入れた"
+                                "I obtained Araka's amulet."
                             ]
                         },
                         {

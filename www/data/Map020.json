@@ -2959,7 +2959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……今は、ここより先に、見えたものを調べたい。"
+                                "......I want to investigate what I saw before here."
                             ]
                         },
                         {
@@ -3599,7 +3599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……今は、ここより先に、見えたものを調べたい。"
+                                "......I want to investigate what I saw before here."
                             ]
                         },
                         {
@@ -3667,28 +3667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこが便所であることは、標識から分かっていた。しかし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その扉は暗いこのビルのなかでもなお闇く、閉ざされていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "立ち去れ、と本能が告げている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……しかし、ここで立ち去るわけにはいかない。"
+                                "I knew from the sign that it was a restroom. However, the door was\nstill dark and closed even in this dark building. My instinct tells me\nto leave. ...However, I can't just leave here."
                             ]
                         },
                         {
@@ -3705,7 +3684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "意を決して、震える手を伸ばし――"
+                                "With determination, I reach out with trembling hands--"
                             ]
                         },
                         {
@@ -3734,7 +3713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――扉が開かなかったことに、なぜか安心した。"
+                                "--I strangely felt relieved that the door didn't open."
                             ]
                         },
                         {
@@ -4822,28 +4801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……何か落ちている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "――ヘアピンだ。真新しい。便器の縁に落ちている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありきたりなヘアピン。しかし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アラカがヘアピンを好んで身に着けていることも知っている。"
+                                "......Something is falling. -- It's a hairpin. It's brand new. It's falling\non the edge of the toilet bowl. A common hairpin. However, I also know\nthat Araka likes to wear hairpins."
                             ]
                         },
                         {
@@ -5072,28 +5030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通常なら、一生入る機会のない場所だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "躊躇いながらそこに手を伸ばそうとすると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中で異音がすることに気がついた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "In normal circumstances, it's a place where you wouldn't have the\nopportunity to enter in your lifetime. As I hesitantly reach out my\nhand towards it, I notice a strange sound coming from inside."
                             ]
                         },
                         {
@@ -5122,28 +5059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……アァ……ぁ……」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Ah...ah..."
                             ]
                         },
                         {
@@ -5160,28 +5076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不吉な予感がする。耳をすまして、扉に頭を近づける。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで猫とネズミの鳴き声のような、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしノイズがかった音。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I have a bad feeling. I listen carefully and bring my head closer to\nthe door. It's a sound that resembles the cries of a cat and a mouse,\nbut with a distorted noise."
                             ]
                         },
                         {
@@ -5198,28 +5093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……ギャ、……ア、ァ……ぎゃ、あぁ……」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Gya, ...Ah, ...Aa... Gya, ahh..."
                             ]
                         },
                         {
@@ -5236,28 +5110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それに気がついた時、背筋に氷でも注入されたかと思った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "――これは、赤ん坊の鳴き声だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それも、ただの赤ん坊ではない。それは明るい生命ではなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怨嗟と憎悪に満ちている。"
+                                "When I realized that, I felt as if ice had been injected into my\nspine. -- This is the cry of a baby. And not just any baby. It is not\na cry of bright life, but one filled with resentment and hatred."
                             ]
                         },
                         {
@@ -5274,14 +5127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "赤ん坊の声だとはっきり分かるのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし赤ん坊とは程遠かった。"
+                                "Although it was clear that it was the voice of a baby, it was far from\nbeing a normal baby."
                             ]
                         },
                         {
@@ -5298,28 +5144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって――産まれたばかりの赤ん坊がそうであるように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "泣いている声だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、それは笑っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひどく耳障りな音で。"
+                                "Because... like a newborn baby, it is the sound of crying.\nHowever, it is laughing. With a terribly grating noise."
                             ]
                         },
                         {
@@ -5336,28 +5161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゆっくりと、中のものに気が付かれないように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "扉から離れる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気が付かれたら一巻の終わりだということくらい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鈍くても分かった。"
+                                "Slowly, I move away from the door, trying not to be noticed\nby whatever is inside. Even if it's dull, I understand that if I'm\nnoticed, it will be the end of the story."
                             ]
                         },
                         {
@@ -5451,28 +5255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……不吉な……赤ん坊、としか言えない声が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞こえてくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中にナニカがいるのは間違いない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手がかりがあるのは、間違いない――"
+                                "......A ominous... voice can only be described as a baby, can be heard.\nThere is no doubt that there is something inside. There is no doubt\nthat there is a clue--"
                             ]
                         },
                         {
@@ -5516,14 +5299,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし、と呟いた瞬間。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "――ぴたりと鳴き声が止まった。"
+                                "As soon as I muttered, Alright--the crying sound abruptly stopped."
                             ]
                         },
                         {
@@ -5596,21 +5372,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "視界が明滅する――心臓が恐怖で停止する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気付かれてしまった――それだけで、向けられた感情を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "感じ取ってしまった。"
+                                "The field of vision flickers--the heart stops in fear. I was noticed--\njust that, I sensed the emotions directed towards me."
                             ]
                         },
                         {
@@ -5627,7 +5389,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それは、あまりにも強い、愉悦だった。"
+                                "It was an overwhelmingly strong pleasure."
                             ]
                         },
                         {
@@ -5644,7 +5406,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――げら。"
+                                "--Gera."
                             ]
                         },
                         {
@@ -5661,28 +5423,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "げらげらげらげらげらげらげらげらげらげらげらげらげらげ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "らげらげらげらげらげらげらげらげらげらげらげらげらげら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "げらげらげらげらげらげらげらげらげらげらげらげらげらげ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "げげげげげげげげげげげげげげげげげげげげげげげ――――"
+                                "Geggege---"
                             ]
                         },
                         {
@@ -5713,14 +5454,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――消えゆく意識の中。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "老婆のような、笑い声が聞こえた。"
+                                "--Within fading consciousness, I heard the laughter of an old woman."
                             ]
                         },
                         {
@@ -5787,21 +5521,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――いや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "首を振って、そっと扉から離れる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気付かれたら、きっと、終わってしまう。"
+                                "--No. I shake my head and quietly move away from the door. If I'm\nnoticed, it will surely be over."
                             ]
                         },
                         {
@@ -5818,14 +5538,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『ここには入ってはいけない』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……それが分かっただけで、十分だろう。"
+                                "I shouldn't enter here... Just knowing that is enough, right?"
                             ]
                         },
                         {
@@ -6307,28 +6020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふわふわと白い札が浮いてる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "異様な光景ではあるが、禍々しさは感じない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それどころか、なにもかもが穢れているこの廃ビルの中において、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初めてみる清浄なもののように思える。"
+                                "Fluffy white cards are floating. It is an unusual sight, but I don't\nfeel any ominousness. On the contrary, everything in this abandoned\nbuilding, which is filled with impurity, seems to be the first pure\nthing I have ever seen."
                             ]
                         },
                         {
@@ -6345,7 +6037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──加えて、それはアラカの護符によく似ていた。"
+                                "──In addition, it closely resembled Araka's amulet."
                             ]
                         },
                         {
@@ -6405,14 +6097,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「これ以上すすんでは駄目。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "君も──戻れなくなってしまうから」"
+                                "You must not proceed any further. Because you too... will become\nunable to return."
                             ]
                         },
                         {
@@ -6429,7 +6114,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「今すぐ1階に戻って──」"
+                                "Go back to the first floor right away──"
                             ]
                         },
                         {
@@ -6446,14 +6131,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ビルの入り口でこれを使って──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "──今ならまだ戻れるから……」"
+                                "Use this at the entrance of the building... You can still go back\nnow..."
                             ]
                         },
                         {
@@ -6518,7 +6196,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アラカの護符を手に入れた"
+                                "I obtained Araka's amulet."
                             ]
                         },
                         {
@@ -7293,14 +6971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここにはアラカの手掛かりがありそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと調べてみた方がいいかもしれない。"
+                                "There might be some clues here. It might be worth investigating\nfurther."
                             ]
                         },
                         {

@@ -8752,14 +8752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この先、重要な選択肢があるため、セーブを推奨します"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　進んでもよろしいですか？"
+                                "※I recommend saving because there are important choices ahead. Is it\nokay to proceed?"
                             ]
                         },
                         {
@@ -8917,14 +8910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この先、重要な選択肢があるため、セーブを推奨します"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　進んでもよろしいですか？"
+                                "※I recommend saving because there are important choices ahead. Is it\nokay to proceed?"
                             ]
                         },
                         {
@@ -9101,14 +9087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この先、重要な選択肢があるため、セーブを推奨します"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　進んでもよろしいですか？"
+                                "※Because there are important choices ahead, I recommend saving. Is it\nokay to proceed?"
                             ]
                         },
                         {
@@ -9285,14 +9264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この先、重要な選択肢があるため、セーブを推奨します"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　進んでもよろしいですか？"
+                                "※I recommend saving because there are important choices ahead. Is it\nokay to proceed?"
                             ]
                         },
                         {
@@ -9469,14 +9441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この先、重要な選択肢があるため、セーブを推奨します"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　進んでもよろしいですか？"
+                                "※Because there are important choices ahead, I recommend saving. Is it\nokay to proceed?"
                             ]
                         },
                         {
@@ -9653,14 +9618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この先、重要な選択肢があるため、セーブを推奨します"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　進んでもよろしいですか？"
+                                "※Because there are important choices ahead, I recommend saving. Is it\nokay to proceed?"
                             ]
                         },
                         {
@@ -9948,14 +9906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この先、重要な選択肢があるため、セーブを推奨します"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　進んでもよろしいですか？"
+                                "※I recommend saving because there are important choices ahead. Is it\nokay to proceed?"
                             ]
                         },
                         {
@@ -10132,14 +10083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この先、重要な選択肢があるため、セーブを推奨します"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　進んでもよろしいですか？"
+                                "※Because there are important choices ahead, I recommend saving. Is it\nokay to proceed?"
                             ]
                         },
                         {
@@ -11337,7 +11281,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「か……ひゅっ……ァ、かはっ……❤❤」"
+                                "Ka... hyu... Ah, kaha... ❤❤"
                             ]
                         },
                         {
@@ -11354,21 +11298,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（アラカったら、お魚みたい。あ、ううん、出がらし？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ねえ、きちんと呼吸しないと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "呼吸しなくていいモノになっちゃうわよ？）"
+                                "(Araka, you're like a fish. Oh, no, maybe more like a discarded shell?\nHey, if you don't breathe properly, you'll become something that\ndoesn't need to breathe, you know?)"
                             ]
                         },
                         {
@@ -11385,7 +11315,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「……っは、ひゅっ……❤」"
+                                "...Ha, hyu... ❤"
                             ]
                         },
                         {
@@ -12252,7 +12182,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「はぁあっ！」"
+                                "Haah!"
                             ]
                         },
                         {
@@ -12330,7 +12260,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「……次っ……！」"
+                                "...Next...!"
                             ]
                         },
                         {
@@ -12468,7 +12398,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「……もう、次って言って本当に次に行く人がある……？」"
+                                "...Is there really someone who says 'next' and actually goes next...?"
                             ]
                         },
                         {
@@ -12708,7 +12638,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「う……うぅ……ぁつ、ぃいい……❤❤」"
+                                "Ugh... ugh... ah, it feels so good... ❤❤"
                             ]
                         },
                         {
@@ -12725,14 +12655,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "（アラカったら、びちゃびちゃなのにカラカラなのね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なぞなぞ出してもいい？　ふふ、ふ❤）"
+                                "(Araka, even though you're all wet, you're still dry. Can I tell you a\nriddle? Hehe, he❤)"
                             ]
                         },
                         {
@@ -12749,7 +12672,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「う、る、さいっ……」"
+                                "U, r, s... Thank you..."
                             ]
                         },
                         {
@@ -13084,7 +13007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカの扱き穴を使おうと近づいてくる魔物に対して……"
+                                "In response to the monster approaching, trying to use Araka's\nManipulation Hole..."
                             ]
                         },
                         {
@@ -13467,21 +13390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……呻き声が聞こえる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少女たちの体を苗床に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "巨大に育った植物型の怪物が蠢いているのだ。"
+                                "......I can hear moaning. A giant, plant-like monster has grown and is\nwriggling on the bodies of the girls."
                             ]
                         },
                         {
@@ -13909,7 +13818,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うぅうう……うぅううう……っ❤❤」"
+                                "Uuu... Uuuu... ❤❤"
                             ]
                         },
                         {
@@ -13926,21 +13835,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（もう、アラカったら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "せっかく使ってもらってるのに、そんな顔しちゃって……❤　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう少し楽しんでほしいかも……❤）"
+                                "(Oh, Araka. Even though I'm letting you use it, you're making that kind\nof face... ❤ I want you to enjoy it a little more... ❤)"
                             ]
                         },
                         {
@@ -13957,7 +13852,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「……たのひ、く、にゃんか……❤」"
+                                "...Tano-hi, ku, nyanka... ❤   ...Tano-hi, ku, nyanka... ❤"
                             ]
                         },
                         {
@@ -14692,7 +14587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカの扱き穴を使おうと近づいてくる魔物に対して……"
+                                "In response to the monster approaching, trying to use Araka's\nManipulation Hole..."
                             ]
                         },
                         {
@@ -15247,7 +15142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカの扱き穴を使おうと近づいてくる魔物に対して……"
+                                "In response to the monster approaching, trying to use Araka's\nManipulation Hole..."
                             ]
                         },
                         {
@@ -15493,7 +15388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカの扱き穴を使おうと近づいてくる魔物に対して……"
+                                "In response to the monster approaching, trying to use Araka's\nManipulation Hole..."
                             ]
                         },
                         {
@@ -16224,7 +16119,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ふ、ぎゅぃ……❤❤」"
+                                "Fu, gyui... ❤❤"
                             ]
                         },
                         {
@@ -16241,14 +16136,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（アラカったら、びちゃびちゃなのにカラカラなのね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なぞなぞ出してもいい？　ふふ、ふ❤）"
+                                "(Araka, even though you're all wet, you're still dry. Can I tell you a\nriddle? Hehe, he❤)"
                             ]
                         },
                         {
@@ -16265,7 +16153,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ぎ、い゛……っ❤❤ は、う゛……っ❤❤」"
+                                "G-gu... ❤❤ H-hu... ❤❤"
                             ]
                         },
                         {
@@ -16645,14 +16533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（彼ったら、まだそこにいるわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よほど、死人との会食が気に入ったのかしら……）"
+                                "(He's still there, huh? I wonder if he really enjoyed dining with the\ndead people...)"
                             ]
                         },
                         {
@@ -16680,7 +16561,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（ほら、立ちなさい！　彼がやられちゃうわよ！）"
+                                "(Look, stand up! He's going to get hurt!)"
                             ]
                         },
                         {
@@ -16697,7 +16578,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ふ、ぇ゛……っ❤」"
+                                "Fu, ehh... ❤"
                             ]
                         },
                         {
@@ -16952,7 +16833,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「はぁ……❤　はぁ……❤❤」"
+                                "Haah......❤ Haah......❤❤"
                             ]
                         },
                         {
@@ -17404,7 +17285,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「う……うぅ……ぁっ……ア……❤❤」"
+                                "Ugh... ugh... ah... A... ❤❤"
                             ]
                         },
                         {
@@ -17421,14 +17302,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（アラカ、おしりの穴熱い？　熱いだけ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……あーんなに広げられたのに、熱いだけだった？）"
+                                "(Araka, is your asshole hot? Just hot? ...Even though it was stretched\nso wide, it's just hot?)"
                             ]
                         },
                         {
@@ -17445,7 +17319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「う……ぅ……❤❤❤」"
+                                "Ugh... ugh... ❤❤❤"
                             ]
                         },
                         {
@@ -17867,7 +17741,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（ほら、さっさとお立ちなさいな！　今度は、あっちに行ったわよ）"
+                                "Come on, hurry up and stand up! This time, go over there."
                             ]
                         },
                         {
@@ -17884,7 +17758,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ひ゛ぎぃ……❤　あ゛……ぃ゛い……❤❤」"
+                                "Ugh... ah... ❤ Ah... ❤❤"
                             ]
                         },
                         {
@@ -18264,7 +18138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカの扱き穴を使おうと近づいてくる魔物に対して……"
+                                "In response to the monster approaching, trying to use Araka's\nManipulation Hole..."
                             ]
                         },
                         {
@@ -18577,7 +18451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカの扱き穴を使おうと近づいてくる魔物に対して……"
+                                "In response to the monster approaching, trying to use Araka's\nManipulation Hole..."
                             ]
                         },
                         {
@@ -18890,7 +18764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカの扱き穴を使おうと近づいてくる魔物に対して……"
+                                "In response to the monster approaching, trying to use Araka's trap\nhole..."
                             ]
                         },
                         {
@@ -19136,7 +19010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカの扱き穴を使おうと近づいてくる魔物に対して……"
+                                "In response to the monster approaching, trying to use Araka's\nManipulation Hole..."
                             ]
                         },
                         {

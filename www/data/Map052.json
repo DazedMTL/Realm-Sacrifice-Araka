@@ -6641,28 +6641,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「どうしたの？　立ち止まって」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "What's wrong? Stop."
                             ]
                         },
                         {
@@ -6697,28 +6676,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「……気持ち悪い。腐った魚の内臓にいるみたい」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...It feels disgusting. It's like being inside the rotten guts of a fish."
                             ]
                         },
                         {
@@ -6764,28 +6722,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（……彼の気配が掴みにくい……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "障子越しに一枚隔て見てるみたいな……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(...His presence is elusive... It's like watching him through a paper\nscreen...)"
                             ]
                         },
                         {
@@ -6802,28 +6739,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（……迷っててもダメでしょうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "彼を探して、守って、それから……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……脱出させるように誘導しないと）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(...Even if I'm lost, it's no good. I have to find him, protect him, and\nthen... ...guide him to escape.)"
                             ]
                         },
                         {
@@ -6840,7 +6756,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（……素直に誘導に乗ってくれるかしら……）"
+                                "(...I wonder if he will obediently follow my guidance...)"
                             ]
                         },
                         {
@@ -8063,7 +7979,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うぅッ、うぅううううっ……❤❤」"
+                                "Ugh, uuuu... ❤❤"
                             ]
                         },
                         {
@@ -8117,21 +8033,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（彼ったら、気づいてるのかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アラカがこーんなに尽くしてるのに！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "鈍感は罪よね、アラカ？）"
+                                "(I wonder if he realizes? Even though Araka is doing so much for him!\nBeing oblivious is a sin, isn't it, Araka?)"
                             ]
                         },
                         {
@@ -8847,21 +8749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカパートのシステム解説"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "※アラカパートでは、ホラーパートであなたがとった選択により、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アラカが強化されたり弱体化されたりするイベントが起きます。"
+                                "Explanation of the Araka Part System: In the Araka Part, events occur\nwhere Araka is strengthened or weakened depending on the choices you\nmake in the Horror Part."
                             ]
                         },
                         {
@@ -8878,21 +8766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※ホラーパートで禍々しいものを執拗に調べていると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アラカはあなたを助けようとして可愛そうな目に遭い、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後遺症を負って弱体化することになります。"
+                                "※When investigating the ominous things persistently in the Horror Part,\nAraka will try to help you and end up suffering in a pitiful way,\nresulting in weakening and experiencing aftereffects."
                             ]
                         },
                         {
@@ -8909,14 +8783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※ホラーパートでアラカに利する行動をとっていると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アラカが強化されることもあります。"
+                                "※When taking actions that benefit Araka in the Horror\nPart, Araka may be strengthened."
                             ]
                         },
                         {
@@ -8933,21 +8800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※本ゲームでは、敗北してもストーリーは進行します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "またホラーパートで選択を誤っていてもトゥルーエンドに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たどり着ける救済処置もあります。"
+                                "※In this game, even if you lose, the story will continue. Additionally,\nthere are rescue measures that allow you to reach the true end even if\nyou make wrong choices in the Horror Part."
                             ]
                         },
                         {
@@ -11395,7 +11248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカの扱き穴を使おうと近づいてくる魔物に対して……"
+                                "In response to the monster approaching, trying to use Araka's\nManipulation Hole...:"
                             ]
                         },
                         {

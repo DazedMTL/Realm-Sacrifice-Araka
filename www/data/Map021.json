@@ -8530,14 +8530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どす黒い肉片が落ちている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……よくみれば小さな頭のようなものも見える。"
+                                "A dark piece of meat is falling... Upon closer inspection, something\nresembling a small head can also be seen."
                             ]
                         },
                         {
@@ -8554,7 +8547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肉片を拾いますか？"
+                                "Do you want to pick up the piece of meat?"
                             ]
                         },
                         {

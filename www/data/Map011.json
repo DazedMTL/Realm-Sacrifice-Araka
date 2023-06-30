@@ -7932,7 +7932,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "※ハッピーエンドのヒントを見ますか？"
+                                "※Do you want to see hints for a happy ending?"
                             ]
                         },
                         {
@@ -7971,21 +7971,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "※ホラーパートで以下の条件を満たすとアラカパートに行けます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "①アラカの遺物を７つ集める（入手時に緑文字で表示されます）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "②金庫の鍵を入手しない(カーラにそそのかされない)"
+                                "※If you meet the following conditions in the horror part, you can go to\nthe Araka part: 1. Collect all seven relics of Araka (they will be\ndisplayed in green text when obtained). 2. Do not obtain the key to\nthe safe (do not be tempted by Kara)."
                             ]
                         },
                         {
@@ -8002,28 +7988,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "※余計なものを調べるとアラカパートでアラカが凌辱を受け"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "弱体化されるので、調べるかよく吟味しましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "※これらの条件はホラーパートスキップ機能を使うと簡単に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "開放できます。"
+                                "※If you investigate unnecessary things, Araka will be subjected to\nhumiliation and weakened in the Araka part, so let's carefully\nconsider whether to investigate or not. *These conditions can be\neasily unlocked by using the horror part skip function."
                             ]
                         },
                         {
@@ -8040,7 +8005,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "その上でラスボスを撃破してください。"
+                                "Please defeat the final boss after that."
                             ]
                         },
                         {
@@ -8232,7 +8197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこは、ただならぬ空気が渦巻いていた。"
+                                "There, an unusual atmosphere was swirling."
                             ]
                         },
                         {
@@ -8249,7 +8214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……自分にも分かる。これは、大変なものだ。"
+                                "......I can understand it too. This is something serious."
                             ]
                         },
                         {
@@ -8266,14 +8231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒々とした汚泥が空気に漂っているような重苦しさ――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "五感という物が麻痺するような、おぞましさ。"
+                                "A heavy and oppressive feeling, as if thick, black sludge is floating\nin the air - a grotesqueness that numbs the senses."
                             ]
                         },
                         {
@@ -8290,14 +8248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "足が……進まない。まるでその場に根を下ろしたかのように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "がたがたと震えて動かない。"
+                                "My legs... won't move. It's as if they've taken root in place,\ntrembling and unable to move."
                             ]
                         },
                         {
@@ -8314,14 +8265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その空気だけで、呼吸も、心拍すらも忘れてしまうかのようで――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死――その言葉が浮かんだ。"
+                                "Just from that atmosphere alone, it feels as if I forget to breathe,\nforget even my heartbeat - the word death comes to mind."
                             ]
                         },
                         {
@@ -8375,7 +8319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――その瞬間、背中に大きな衝撃を受けて倒れ込んだ。"
+                                "--I fell down with a big shock on my back at that moment."
                             ]
                         },
                         {
@@ -8397,21 +8341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……"
+                                ".................. ............ ......"
                             ]
                         },
                         {

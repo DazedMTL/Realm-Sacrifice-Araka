@@ -7538,14 +7538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通電している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやら、下には降りられそうだ。"
+                                "The power is on. It seems like we can go down below."
                             ]
                         },
                         {
@@ -8584,7 +8577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暗闇の中で何かがきらめいた。"
+                                "Something sparkled in the darkness."
                             ]
                         },
                         {
@@ -8601,14 +8594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気になって近づいてみると、宝珠のようなものが落ちている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おそらく数珠としてつながれていたもの一つのようだ。"
+                                "When I approached out of curiosity, I found something like a jewel\nlying there. It seemed to be one of the beads that were probably\nconnected as a rosary."
                             ]
                         },
                         {
@@ -8625,7 +8611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宝珠に触れますか？"
+                                "Do you touch the jewel?"
                             ]
                         },
                         {
@@ -9168,7 +9154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うしろに誰かいる"
+                                "There is someone behind."
                             ]
                         },
                         {
@@ -9202,7 +9188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うしろに誰かいる"
+                                "There is someone behind."
                             ]
                         },
                         {
@@ -9244,14 +9230,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――後ろにナニカいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "唐突に直感して、ごくりと唾をのむ。"
+                                "--There is something behind. Suddenly sensing it, I gulp\nnervously."
                             ]
                         },
                         {
@@ -9277,28 +9256,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "息遣い――体温――そういうものを、感じる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "近づいてくることもなく、ただ、そこにいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "いや――呼んでいる？　呼ばれている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それは、背中に、声をかけてきている。"
+                                "Breathing--Body heat--I can feel those things. Without\ngetting closer, just being there. No--calling me? Being called. It is\ncalling out to me from behind."
                             ]
                         },
                         {
@@ -9388,28 +9346,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そこにあったのは影だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何をするでもなく、ただそこにたたずんでいる影。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……いや、それは、本当に立っているのだろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よく見えない、わからない。"
+                                "What was there was a shadow. A shadow just standing\nthere, without doing anything... No, is it really standing there? I\ncan't see it clearly, I don't understand."
                             ]
                         },
                         {
@@ -9426,7 +9363,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「……なにか伝えたいの？」"
+                                "......Do you have something to tell me?"
                             ]
                         },
                         {
@@ -9443,21 +9380,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "語りかけてみるが、反応はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "影が放つ雰囲気からすると、悪霊のたぐいには違いないだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "──しかし、不思議と悪意は感じない。"
+                                "I try to speak, but there is no response. Judging from\nthe atmosphere emanating from the shadow, it is undoubtedly of the\nevil spirit kind. However, strangely, I don't feel any malice."
                             ]
                         },
                         {
@@ -9474,14 +9397,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……意を決する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "手袋を外し、影に触れる。"
+                                "......Make up one's mind. Take off the gloves and touch the\nshadow."
                             ]
                         },
                         {
@@ -9533,14 +9449,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "触れた瞬間、光を放ったかと思うと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "影は跡形もなく消えてなくなっていた。"
+                                "The moment I touched it, it emitted a light, and before I\nknew it, the shadow had completely disappeared."
                             ]
                         },
                         {
@@ -9557,14 +9466,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……勇気だ、と。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "呟いて、先に進むことにした。"
+                                "......Courage, I whispered, and decided to move forward."
                             ]
                         },
                         {
@@ -9700,21 +9602,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――これまで何度罠に引っかかってきた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この通路には風の流れがある、きっと隣のフロアにつながっている！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "このまま振り切ろう……！"
+                                "--How many times have I fallen into traps until now! There\nis a flow of wind in this corridor, surely it leads to the next floor!\nLet's break free just like this...!"
                             ]
                         },
                         {

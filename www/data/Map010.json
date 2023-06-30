@@ -8240,14 +8240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……既に金庫は開いている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中にはもう、なにもない……"
+                                "......The safe is already open. There is nothing inside anymore..."
                             ]
                         },
                         {
@@ -8315,14 +8308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金庫がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……触る気には、ましてや開ける気には、なれない。"
+                                "There is a safe. ... I have no intention of touching it, let alone\nopening it."
                             ]
                         },
                         {
@@ -8420,14 +8406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガラクタと廃材で器用に作られた金剛杵。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはアラカが仕事で使っていた呪具に似ていた。"
+                                "A Vajra made skillfully from junk and waste materials. It resembled\nthe talisman that Araka used for work."
                             ]
                         },
                         {
@@ -8444,7 +8423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "呪具を手に取りますか？"
+                                "Do you want to take the talisman?"
                             ]
                         },
                         {
@@ -8520,7 +8499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「───なところで───────いのに……」"
+                                "───Just when I was about to───────"
                             ]
                         },
                         {
@@ -8544,7 +8523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "呪具に触れると脳裏にアラカのイメージが走った。"
+                                "When I touched the talisman, Araka's image flashed in my mind."
                             ]
                         },
                         {
@@ -8561,28 +8540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "間違いない。これはアラカが遺したものだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし……今までのアラカの持ち物に比べると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "読み取れる思念が少ない。何か黒いもやのようなものに視界を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遮られている──そんな感覚だった。"
+                                "There is no doubt. This is something left behind by Araka. However...\ncompared to Araka's previous belongings, there are fewer readable\nthoughts. It felt like my vision was obstructed by something dark and\nhazy... that was the sensation."
                             ]
                         },
                         {
@@ -8599,7 +8557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一抹の不安を抱きながらも、君はその呪具を大切にしまい込んだ。"
+                                "With a hint of unease, you carefully stowed away the talisman."
                             ]
                         },
                         {
@@ -11507,7 +11465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暗闇の中で何かがきらめいた。"
+                                "Something sparkled in the darkness."
                             ]
                         },
                         {
@@ -11524,14 +11482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気になって近づいてみると、宝珠のようなものが落ちている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おそらく数珠としてつながれていたもの一つのようだ。"
+                                "When I approached out of curiosity, I found something like a jewel\nlying there. It seemed to be one of the beads that were probably\nconnected as a rosary."
                             ]
                         },
                         {
@@ -11548,7 +11499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宝珠に触れますか？"
+                                "Do you touch the jewel?"
                             ]
                         },
                         {
@@ -12969,21 +12920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "４階へと進むドアのようだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "押しても引いてもびくともしない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやら鍵がかかっているようだ。"
+                                "It seems to be a door leading to the fourth floor, but no matter how\nmuch I push or pull, it won't budge. It appears to be locked."
                             ]
                         },
                         {
@@ -13063,28 +13000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金庫から得た鍵を鍵穴に差し込んでみると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鍵は容易に開いた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "扉も、錆びついてはいるが、やはり容易に開く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで、誘いこまれているかのようだ……"
+                                "When I inserted the key I obtained from the safe into the keyhole, the\nlock easily opened. The door, although rusty, also opened easily. It's\nas if I'm being invited in..."
                             ]
                         },
                         {
@@ -13384,21 +13300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉に近づけば、触れもしないのに、扉が開いた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……アラカの力、だろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たぶんアラカは、この力で外に出てほしいと思っているのだろう。"
+                                "If I approach the door, it opens without even touching it... Is it\nAraka's power, perhaps? Maybe Araka wants me to go outside with this\npower."
                             ]
                         },
                         {
@@ -13415,14 +13317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドアノブを握りしめ、錆びついた扉を押す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "開いた先の闇へ、踏み込んでいく。"
+                                "I grip the doorknob and push the rusty door. Stepping into the\ndarkness that lies beyond."
                             ]
                         },
                         {
@@ -14173,14 +14068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通電している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやら、下には降りられそうだ。"
+                                "The power is on. It seems like we can go down below."
                             ]
                         },
                         {
@@ -14588,7 +14476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "内鍵がかかっているが、開けることはできそうだ。"
+                                "I have a lock on the inside, but it seems like I can open it."
                             ]
                         },
                         {
@@ -14605,7 +14493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "内鍵を解除しますか？"
+                                "Do you want me to unlock it?"
                             ]
                         },
                         {
@@ -15289,14 +15177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通電している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやら、下には降りられそうだ。"
+                                "The power is on. It seems like we can go down below."
                             ]
                         },
                         {
@@ -19556,7 +19437,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「…………」"
+                                "「............」"
                             ]
                         },
                         {
@@ -19646,7 +19527,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「…………」"
+                                "「............」"
                             ]
                         },
                         {
@@ -19837,7 +19718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………」"
+                                "「............」"
                             ]
                         },
                         {
@@ -20092,7 +19973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………」"
+                                "「............」"
                             ]
                         },
                         {

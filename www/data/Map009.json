@@ -9811,21 +9811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──ご注意──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この先に進むと、もう前半パートのマップには戻れません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やり残したことはありませんか？"
+                                "──Please be aware that if you proceed further, you will not be able to\nreturn to the first half of the map. Is there anything you have left\nunfinished?"
                             ]
                         },
                         {
@@ -10941,21 +10927,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そこは、明るく賑わうパーティー会場だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "誰も彼もが笑顔で談笑している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なんの違和感も抱けないほどに、普通のパーティー会場だった。"
+                                "It was a bright and bustling party venue. Everyone was chatting and\nlaughing with smiles on their faces. It was such a normal party venue\nthat no one felt any sense of discomfort."
                             ]
                         },
                         {
@@ -10972,28 +10944,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……このおぞましい廃墟の中にあることを除けば。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どう考えてもおかしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "もう一度霊視を使っても見るべきではないか──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "──君はそう考えるだろう。"
+                                "......Except for the fact that it's in this disgusting ruin. It's definitely\nstrange. Shouldn't we use clairvoyance again to see── You would think\nso, right?"
                             ]
                         },
                         {

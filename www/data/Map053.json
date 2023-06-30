@@ -5669,7 +5669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうしたの……？」"
+                                "What's wrong...?"
                             ]
                         },
                         {
@@ -5726,7 +5726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここに入るの……？」"
+                                "Can I come in here...?"
                             ]
                         },
                         {
@@ -5761,14 +5761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今更なに言ってるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきまで、瘴気だらけの汚水に浸かっておほおほ言ってたくせに」"
+                                "What are you saying now? Just a moment ago, you were happily splashing\naround in the polluted water full of miasma."
                             ]
                         },
                         {
@@ -5825,7 +5818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「…………」"
+                                "「............」"
                             ]
                         },
                         {
@@ -7067,7 +7060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あれは……」"
+                                "That is..."
                             ]
                         },
                         {
@@ -7257,7 +7250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「何か身体を隠せるものは──」"
+                                "What can hide my body?"
                             ]
                         },
                         {
@@ -7331,7 +7324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はあ……、あるわけないか……」"
+                                "Haah... There's no way..."
                             ]
                         },
                         {
@@ -7704,7 +7697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まだ、がらくたの中に使えるものがあるかもしれない……」"
+                                "There might still be something useful in the clutter..."
                             ]
                         },
                         {
@@ -7917,7 +7910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「これは──使えそう」"
+                                "This... seems usable."
                             ]
                         },
                         {

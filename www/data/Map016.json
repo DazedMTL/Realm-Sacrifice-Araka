@@ -2902,7 +2902,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "※ハッピーエンドのヒントを見ますか？"
+                                "※Do you want to see hints for a happy ending?"
                             ]
                         },
                         {
@@ -2941,28 +2941,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "※ハッピーエンド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ホラーパートで以下の条件を満たすとアラカパートに行けます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "①アラカの遺物を７つ集める（入手時に緑文字で表示されます）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "②金庫の鍵を入手しない(カーラにそそのかされない)"
+                                "※If you fulfill the following conditions, you can go to the Araka Path\nin the Happy End Horror Part: ① Collect all seven of Araka's relics\n(they will be displayed in green text when obtained) ② Do not obtain\nthe key to the safe (do not be tempted by Kara)."
                             ]
                         },
                         {
@@ -2979,14 +2958,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "※これらの条件はホラーパートスキップ機能を使うと簡単に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "開放できます。"
+                                "※These conditions can be easily unlocked by using the Horror Path Skip\nfunction."
                             ]
                         },
                         {
@@ -3003,7 +2975,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "その上でラスボスを撃破してください。"
+                                "Please defeat the final boss after fulfilling those conditions."
                             ]
                         },
                         {

@@ -5552,21 +5552,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゲーム画面の中央には君がいた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "レトロなドット絵のゲーム画面に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "似つかわしくない写実的な君の姿だ。"
+                                "You were in the center of the game screen. Your realistic figure,\nwhich is not suitable for the retro pixel art game screen."
                             ]
                         },
                         {
@@ -5583,14 +5569,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゲームのモンスターたちが、画面上の君に群がってくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そして──"
+                                "The game monsters gather around you on the screen. And──"
                             ]
                         },
                         {
@@ -5633,7 +5612,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "君は死んだ。"
+                                "You died."
                             ]
                         },
                         {
@@ -5739,7 +5718,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レトロなゲームのデモが流れている。"
+                                "A demo of a retro game is playing."
                             ]
                         },
                         {
@@ -8749,21 +8728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "３階へと進むドアのようだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "押しても引いてもびくともしない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か開ける手段を見つける必要がありそうだ。"
+                                "It seems to be a door leading to the third floor, but no matter how\nmuch I push or pull, it won't budge. It seems like I need to find a\nway to open it."
                             ]
                         },
                         {
@@ -8883,14 +8848,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……いつのまにか、鍵が開いている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうやら、上階に行けるようだ……。"
+                                "......Before I knew it, the door was open. It seems like I can go\nupstairs..."
                             ]
                         },
                         {
@@ -8924,21 +8882,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……どうしてか、この先に踏み込むべきではない気がした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この先――これまでよりも、もっと無残なものがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんな確信が、君の脚を止めていた。"
+                                "......I felt like I shouldn't step forward for some reason. Ahead of this -\nthere is something even more gruesome than before. That conviction was\nstopping your legs."
                             ]
                         },
                         {
@@ -9007,14 +8951,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……『勇気だ』。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "呟いて、先に進む。"
+                                "......Courage. She murmured and moved forward."
                             ]
                         },
                         {
@@ -9350,14 +9287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……扉は既に開いている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怖気づく気持ちは確かにある――だが。"
+                                "......The door is already open. There is definitely a feeling of fear - but."
                             ]
                         },
                         {
@@ -9426,14 +9356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『勇気だ』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "呟いて、扉を開いた。"
+                                "Courage. She murmured and opened the door."
                             ]
                         },
                         {
@@ -10527,14 +10450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通電している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやら、下には降りられそうだ。"
+                                "The power is on. It seems like we can go down below."
                             ]
                         },
                         {
@@ -11176,14 +11092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通電している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやら、下には降りられそうだ。"
+                                "The power is on. It seems like we can go down below."
                             ]
                         },
                         {
@@ -11775,28 +11684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……金庫、らしきものがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで金庫型の鉄塊だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダイヤルもなにも飾りのようで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "開けることを試みることすらできない。"
+                                "......There seems to be a safe. It looks like a solid block of iron in the\nshape of a safe. The dial is just for decoration, and I can't even\nattempt to open it."
                             ]
                         },
                         {
@@ -11864,14 +11752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……既に金庫は開いている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中にはもう、なにもない……"
+                                "......The safe is already open. There is nothing inside anymore..."
                             ]
                         },
                         {

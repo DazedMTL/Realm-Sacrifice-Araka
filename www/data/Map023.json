@@ -1503,7 +1503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おぞましい肉片の中に輝く何かがある。"
+                                "There is something shining in the gruesome pieces of meat."
                             ]
                         },
                         {
@@ -1554,14 +1554,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "肉片の中から現れたのは、見事な宝珠だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "穴が開いているところから見ると数珠として使われていたようだ。"
+                                "What emerged from the pieces of meat was a splendid jewel. It appears\nto have been used as a rosary, judging from the hole in it."
                             ]
                         },
                         {
@@ -1578,7 +1571,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "宝珠に触れた瞬間、誰かの記憶が流れ込んでくる。"
+                                "When I touched the jewel, someone's memories flowed into me."
                             ]
                         },
                         {

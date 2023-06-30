@@ -1585,7 +1585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「これは──使えそう」"
+                                "This... seems usable."
                             ]
                         },
                         {
@@ -2119,14 +2119,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アラカは長い長い凌辱の果てに再び、廃ビルの最下層──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "──浄化層に堕とされてしまいました。"
+                                "Araka was once again thrown into the lowest level of the abandoned\nbuilding, the purification layer, after a long, long ordeal of\nhumiliation."
                             ]
                         },
                         {
@@ -2143,21 +2136,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今まで打倒してきた奥殿の主たちに再び立ち向かわなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なりません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "──敗北によって弱体化したしまった身体で……"
+                                "I must once again confront the lords of the inner chambers that I have\nbeen defeating until now. ── With a weakened body due to my previous\ndefeat..."
                             ]
                         },
                         {

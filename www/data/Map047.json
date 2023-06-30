@@ -1405,28 +1405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タイトルに戻ります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よろしいですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（この部屋では本編アラカパートで閲覧可能な"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アラカのエロステをメニューからご覧いただくことが可能です）"
+                                "I will return to the title. Is that okay? (In this room, you can view\nAraka's erotic photoshoots in the main Araka part, which can be\naccessed from the menu.)"
                             ]
                         },
                         {

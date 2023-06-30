@@ -9959,14 +9959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通電している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやら、下には降りられそうだ。"
+                                "The power is on. It seems like we can go down below."
                             ]
                         },
                         {
@@ -10140,14 +10133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通電している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやら、下には降りられそうだ。"
+                                "The power is on. It seems like we can go down below."
                             ]
                         },
                         {

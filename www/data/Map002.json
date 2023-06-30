@@ -13337,21 +13337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーイベント『自動販売機百瀬百代』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:OXIDEENGINE"
+                                "Do you want to play the psychometry event Vending Machine Momoyo?\nScenario: Inuzamurai Illustration: OXIDEENGINE"
                             ]
                         },
                         {
@@ -13559,21 +13545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーイベント『レンタルビデオボックス』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:裏側ざん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:OXIDEENGINE"
+                                "Do you want to play the psychometry event Rental Video Box? Scenario:\nUragawa Zan, Illustration: OXIDEENGINE"
                             ]
                         },
                         {
@@ -13781,21 +13753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーイベント『音楽ゲーム』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:裏側ざん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:OXIDEENGINE"
+                                "Do you want to play the psychometry event Music Game? Scenario:\nUragawa Zan, Illustration: OXIDEENGINE"
                             ]
                         },
                         {
@@ -14003,21 +13961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーイベント『プリクラ機』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:裏側ざん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:OXIDEENGINE"
+                                "Do you want to play the psychometry event Purikura Machine? Scenario:\nUragawa Zan, Illustration: OXIDEENGINE"
                             ]
                         },
                         {
@@ -14167,7 +14111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカ　敗北後復帰"
+                                "Araka's return after defeat."
                             ]
                         },
                         {
@@ -14244,7 +14188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカ　オナニーイベント"
+                                "Araka's masturbation event."
                             ]
                         },
                         {
@@ -14321,7 +14265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカパート"
+                                "Araka Part"
                             ]
                         },
                         {
@@ -14398,7 +14342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーパート"
+                                "Psychometry Part"
                             ]
                         },
                         {
@@ -14526,28 +14470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーイベント『トイレ』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the psychometry event Toilet? Scenario: Inuzamurai\nCV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring: Unini-gumi"
                             ]
                         },
                         {
@@ -14721,28 +14644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーイベント『トイレ』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the psychometry event Toilet? Scenario: Inuzamurai\nCV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring: Unini-gumi"
                             ]
                         },
                         {
@@ -14983,28 +14885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーイベント『クレーンゲーム』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the psychometry event Crane Game? Scenario:\nInuzamurai CV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring:\nUnini Group"
                             ]
                         },
                         {
@@ -15145,28 +15026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーイベント『クレーンゲーム』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the psychometry event Crane Game? Scenario:\nInuzamurai CV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring:\nUnini Group"
                             ]
                         },
                         {
@@ -15316,21 +15176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "▶バッドエンド～オナホール～の開放条件"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『アラカの護符』もしくは『アラカの呪具』、『アラカの宝珠』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "を使って、廃墟から出る。"
+                                "▶The release conditions for Bad End ~ Onahole ~ are to use\neither Araka's amulet or Araka's cursed object or Araka's treasure orb\nto escape from the ruins."
                             ]
                         },
                         {
@@ -15398,28 +15244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エンディング『Badend～オナホール～』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "原画:柳原ミツキ　彩色:うにに組"
+                                "Do you want to play the ending Badend ~ Onahole ~? Scenario:\nInuzamurai, Original Art: Yanagihara Mitsuki, Coloring: Unini-gumi."
                             ]
                         },
                         {
@@ -15436,7 +15261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※当イベントには『四肢欠損』表現が含まれます※"
+                                "※This event includes expressions of limb loss※"
                             ]
                         },
                         {
@@ -15631,14 +15456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "▶バッドエンド～主人公死亡～の開放条件"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホラーパートで選択を誤り、死亡する。"
+                                "▶The unlocking condition for the Bad End - Protagonist's\nDeath - is to make a wrong choice in the horror party and die."
                             ]
                         },
                         {
@@ -15706,28 +15524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エンディング『Badend～主人公道中死亡～』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "原画:柳原ミツキ　彩色:うにに組"
+                                "Do you want to play the ending Badend - The protagonist dies along the\nway? Scenario: Inuzamurai, Original Art: Yanagihara Mitsuki, Coloring:\nUnini-gumi."
                             ]
                         },
                         {
@@ -15922,7 +15719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカの遺物"
+                                "Araka's relic"
                             ]
                         },
                         {
@@ -15999,7 +15796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーパート"
+                                "Psychometry Part"
                             ]
                         },
                         {
@@ -16076,7 +15873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーパート"
+                                "Psychometry Part"
                             ]
                         },
                         {
@@ -16204,21 +16001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『アラカの遺物　靴』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "CV:藤村 莉央"
+                                "Do you want to play Araka's Relic: Shoes? Scenario: Dog Samurai CV:\nRio Fujimura"
                             ]
                         },
                         {
@@ -16478,21 +16261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "如月ヨミ『前日譚１』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:マグロネコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:マグロネコ"
+                                "Would you like to play Prequel 1 by Yomi Kisaragi? Illustration: Tuna\nCat Scenario: Tuna Cat"
                             ]
                         },
                         {
@@ -16714,21 +16483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『アラカの遺物　手袋』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "CV:藤村 莉央"
+                                "Would you like to play Araka's Relic: Gloves? Scenario: Dog Samurai\nCV: Rio Fujimura"
                             ]
                         },
                         {
@@ -16976,21 +16731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "如月ヨミ『前日譚２』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:マグロネコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:マグロネコ"
+                                "Would you like to play Prequel 2 by Yomi Kisaragi? Illustration: Tuna\nCat Scenario: Tuna Cat"
                             ]
                         },
                         {
@@ -17198,28 +16939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "如月ヨミ１『無数の手』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:マグロネコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:マグロネコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "CV:藤村 莉央 （フェラ音のみ素材集『姫騎士リヨナ』より）"
+                                "Would you like to play Countless Hands by Yomi Kisaragi? Illustration:\nMaguroneko Scenario: Maguroneko CV: Rio Fujimura (from the sound\nmaterial collection Princess Knight Liona only for fellatio sounds)"
                             ]
                         },
                         {
@@ -17420,28 +17140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『アラカの遺物　下着』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:U-mu"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "CV:藤村 莉央"
+                                "Do you want to play Araka's Relic: Underwear? Scenario: Dog Samurai\nIllustration: U-mu CV: Rio Fujimura"
                             ]
                         },
                         {
@@ -17682,14 +17381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『電球』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント"
+                                "Do you want to play the Light Bulb event? Scenario: Takamagahara\nHarassment."
                             ]
                         },
                         {
@@ -17856,14 +17548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『電球』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント"
+                                "Do you want to play the Light Bulb event? Scenario: Takamagahara\nHarassment."
                             ]
                         },
                         {
@@ -18097,14 +17782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『そろばん』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント"
+                                "Would you like to play the Abacus event? Scenario: Takamagahara\nHarassment."
                             ]
                         },
                         {
@@ -18271,14 +17949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『そろばん』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント"
+                                "Would you like to play the Abacus event? Scenario: Takamagahara\nHarassment."
                             ]
                         },
                         {
@@ -18454,7 +18125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーパート"
+                                "Psychometry Part"
                             ]
                         },
                         {
@@ -18531,7 +18202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカパート"
+                                "Araka Part"
                             ]
                         },
                         {
@@ -18608,7 +18279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカパート"
+                                "Araka Part"
                             ]
                         },
                         {
@@ -18685,7 +18356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカパート"
+                                "Araka Part"
                             ]
                         },
                         {
@@ -18820,14 +18491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『椅子』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Do you want to replay the Chair event? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -18994,14 +18658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『椅子』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Do you want to replay the Chair event? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -19177,7 +18834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "如月ヨミ　イベント群"
+                                "Yomi Kisaragi Event Group"
                             ]
                         },
                         {
@@ -19312,21 +18969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーイベント『レジスター１』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:応壺"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:F.S"
+                                "Do you want to play the psychometry event Register-1? Scenario:\nOtsubo, Illustration: F.S."
                             ]
                         },
                         {
@@ -19534,28 +19177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカイベント『奥殿0』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the Araka event Okuden 0? Scenario: TASK CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Unini Group"
                             ]
                         },
                         {
@@ -19954,7 +19576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タイトルへ戻りますか？"
+                                "Would you like to return to the title?"
                             ]
                         },
                         {
@@ -20192,21 +19814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーイベント『パンチングマシーン』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:OXIDEENGINE"
+                                "Do you want to play the psychometry event Punching Machine? Scenario:\nInuzamurai Illustration: OXIDEENGINE"
                             ]
                         },
                         {
@@ -20223,7 +19831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※当イベントには『暴力』表現が含まれます※"
+                                "※This event contains expressions of violence※"
                             ]
                         },
                         {
@@ -20373,14 +19981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "▶ハッピーエンド？の開放条件"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オープニングで廃墟に入らない。"
+                                "▶Happy End? The condition for unlocking it is not entering the ruins in\nthe opening."
                             ]
                         },
                         {
@@ -20448,21 +20049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ハッピーエンド？』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Would you like to play Happy End? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -20729,21 +20316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーイベント『鏡』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:応壺"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:F.S"
+                                "Do you want to play the psychometry event Mirror? Scenario: Otsubo\nIllustration: F.S"
                             ]
                         },
                         {
@@ -20919,14 +20492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回想をすべて開放しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "開放しても一度ゲームを終了すると、現在の開放状況に戻ります。"
+                                "Do you want to unlock all the memories? Even if you unlock them, if\nyou end the game once, you will return to the current unlocked state."
                             ]
                         },
                         {
@@ -21172,28 +20738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『電球』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Light Bulb? Scenario: Takamagahara\nHarassment CV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring:\nUnini Group"
                             ]
                         },
                         {
@@ -21210,7 +20755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※当イベントには『蟲』表現が含まれます※"
+                                "※This event contains expressions of bugs※"
                             ]
                         },
                         {
@@ -21413,28 +20958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『電球』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Light Bulb? Scenario: Takamagahara\nHarassment CV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring:\nUnini Group"
                             ]
                         },
                         {
@@ -21451,7 +20975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※当イベントには『蟲』表現が含まれます※"
+                                "※This event contains expressions of bugs※"
                             ]
                         },
                         {
@@ -21721,28 +21245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『そろばん』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Soroban? Scenario: Takamagahara\nHarassment CV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring:\nUnini-gumi"
                             ]
                         },
                         {
@@ -21945,28 +21448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『そろばん』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Soroban? Scenario: Takamagahara\nHarassment CV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring:\nUnini-gumi"
                             ]
                         },
                         {
@@ -22236,28 +21718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『椅子』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Chair? Scenario: Inuzamurai CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Unini-gumi"
                             ]
                         },
                         {
@@ -22460,28 +21921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『椅子』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Chair? Scenario: Inuzamurai\nIllustration: Yanagihara Mitsuki Coloring: Unini-gumi"
                             ]
                         },
                         {
@@ -22751,28 +22191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『螺子』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Screw? Scenario: Inuzamurai CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Unini-gumi"
                             ]
                         },
                         {
@@ -22975,28 +22394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『螺子』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Screw? Scenario: Inuzamurai CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Unini-gumi"
                             ]
                         },
                         {
@@ -23266,14 +22664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『螺子』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Would you like to play the Screw event? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -23440,14 +22831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『螺子』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Would you like to play the Screw event? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -23695,28 +23079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『ゴミ箱』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Trash Can? Scenario: Inu Samurai CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Uni ni Kumi"
                             ]
                         },
                         {
@@ -23919,28 +23282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『ゴミ箱』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Trash Can? Scenario: Inuzamurai CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Unini Group"
                             ]
                         },
                         {
@@ -24210,14 +23552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『ゴミ箱』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Do you want to play the event Trash Can? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -24381,14 +23716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『ゴミ箱』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Do you want to play the event Trash Can? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -24633,14 +23961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『カーラ/金庫1』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Would you like to play Karaoke/Kinko 1? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -24888,14 +24209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『カーラ/金庫2』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Would you like to play Karaoke/ Safe 2? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -25143,14 +24457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『カーラ/金庫3』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Would you like to play Karaoke 3? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -25398,28 +24705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『添え木』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Sogaeki? Scenario: Takamagahara\nHarassment CV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring:\nUnini-gumi"
                             ]
                         },
                         {
@@ -25622,28 +24908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『添え木』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Would you like to play the event Sogaeki? Scenario: Takamagahara\nHarassment CV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring:\nUnini-gumi"
                             ]
                         },
                         {
@@ -25913,14 +25178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『添え木』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント"
+                                "Would you like to play the event scenario Sogeki (Shooting) again?"
                             ]
                         },
                         {
@@ -26087,14 +25345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『添え木』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント"
+                                "Would you like to play the event scenario Sogeki (Shooting) again?"
                             ]
                         },
                         {
@@ -26349,28 +25600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカイベント『奥殿1』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the Araka event Okuden 1? Scenario: TASK CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Unini Group"
                             ]
                         },
                         {
@@ -26639,28 +25869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカイベント『奥殿4』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍先生　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Will you play the Araka Event Okuden 4? Scenario: Inuzamurai-sensei,\nCV: Fujimura Rio, Illustration: Yanagihara Mitsuki, Coloring: Unini-\ngumi"
                             ]
                         },
                         {
@@ -26929,28 +26138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカイベント『奥殿2』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Would you like to play the Araka event Okuden 2? Scenario: TASK CV:\nRio Fujimura Illustration: Mitsuki Yanagihara Coloring: Unini Group"
                             ]
                         },
                         {
@@ -27161,14 +26349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "▶奥殿３の開放条件"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奥殿２「夜陰明神」に敗北する"
+                                "▶Unlocking condition for Inner Chamber 3: Defeat Inner Chamber 2 Yaini\nMyojin"
                             ]
                         },
                         {
@@ -27236,28 +26417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカイベント『奥殿3』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Would you like to play the Araka Event Okuden 3? Scenario: TASK CV:\nRio Fujimura Illustration: Mitsuki Yanagihara Coloring: Unini Group"
                             ]
                         },
                         {
@@ -27526,14 +26686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『ハエ取り』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Do you want to replay the Fly Catching event? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -27697,14 +26850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『ハエ取り』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Do you want to replay the Fly Catching event? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -27935,28 +27081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『ハエ取り』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Fly Swatter? Scenario: Inu Samurai\nIllustration: Yanagihara Mitsuki Coloring: Uni ni Kumi"
                             ]
                         },
                         {
@@ -27973,7 +27098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※当イベントには『虫』表現が含まれます※"
+                                "※This event contains expressions of insects※"
                             ]
                         },
                         {
@@ -28176,28 +27301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『ハエ取り』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Fly Swatter? Scenario: Inu Samurai\nIllustration: Yanagihara Mitsuki Coloring: Uni ni Kumi"
                             ]
                         },
                         {
@@ -28214,7 +27318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※当イベントには『虫』表現が含まれます※"
+                                "※This event contains expressions of insects※"
                             ]
                         },
                         {
@@ -28498,14 +27602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『電子レンジ』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Do you want to play the Microwave event? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -28672,14 +27769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『電子レンジ』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Do you want to play the Microwave event? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -28927,28 +28017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『電子レンジ』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Microwave? Scenario: Inuzamurai CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Unini Group"
                             ]
                         },
                         {
@@ -29151,28 +28220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『電子レンジ』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Microwave? Scenario: Inuzamurai CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Unini Group"
                             ]
                         },
                         {
@@ -29456,28 +28504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『ティーパック』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Tea Pack? Scenario: Takamagahara\nHarassment CV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring:\nUnini Group"
                             ]
                         },
                         {
@@ -29494,7 +28521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※当イベントには『蟲』表現が含まれます※"
+                                "※This event contains expressions of bugs※"
                             ]
                         },
                         {
@@ -29697,28 +28724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『ティーパック』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Would you like to play the event Tea Pack? Scenario: Takamagahara\nHarassment CV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring:\nUnini-gumi"
                             ]
                         },
                         {
@@ -29735,7 +28741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※当イベントには『蟲』表現が含まれます※"
+                                "※This event contains expressions of bugs※"
                             ]
                         },
                         {
@@ -30019,14 +29025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『ティーパック』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント"
+                                "Do you want to play the Tea Party event? Scenario: Takamagahara\nHarassment."
                             ]
                         },
                         {
@@ -30190,14 +29189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『ティーパック』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント"
+                                "Do you want to play the Tea Party event? Scenario: Takamagahara\nHarassment."
                             ]
                         },
                         {
@@ -30442,14 +29434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『ウォシュレット』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Do you want to play the event Washlet? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -30616,14 +29601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『ウォシュレット』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Do you want to play the event Washlet? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -30871,28 +29849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『ウォシュレット』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Washlet? Scenario: Inuzamurai CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Unini Group"
                             ]
                         },
                         {
@@ -31095,28 +30052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『ウォシュレット』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Washlet? Scenario: Inuzamurai\nIllustration: Yanagihara Mitsuki Coloring: Unini-gumi"
                             ]
                         },
                         {
@@ -31400,28 +30336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『蝋燭』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Candle? Scenario: Inuzamurai CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Unini-gumi"
                             ]
                         },
                         {
@@ -31624,28 +30539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『蝋燭』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Candle? Scenario: Inuzamurai CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Unini-gumi"
                             ]
                         },
                         {
@@ -31929,14 +30823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『蝋燭』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Would you like to play the Candle event? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -32100,14 +30987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『蝋燭』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Would you like to replay the Candle event? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -32352,14 +31232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『足ふきマット』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント"
+                                "Do you want to play the Foot Mat event? Scenario: Takamagahara\nHarassment."
                             ]
                         },
                         {
@@ -32526,14 +31399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『足ふきマット』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント"
+                                "Do you want to play the Foot Mat event? Scenario: Takamagahara\nHarassment."
                             ]
                         },
                         {
@@ -32781,28 +31647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『足ふきマット』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Foot Wipe Mat? Scenario: Takamagahara\nHarassment CV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring:\nUnini Group"
                             ]
                         },
                         {
@@ -33005,28 +31850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『足ふきマット』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Foot Mat? Scenario: Takamagahara\nHarassment CV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring:\nUnini Group"
                             ]
                         },
                         {
@@ -33310,28 +32134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『マネキン』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Mannequin? Scenario: Takamagahara\nHarassment CV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring:\nUnini-gumi"
                             ]
                         },
                         {
@@ -33534,28 +32337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『マネキン』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Mannequin? Scenario: Takamagahara\nHarassment CV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring:\nUnini Group"
                             ]
                         },
                         {
@@ -33839,14 +32621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『マネキン』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント"
+                                "Would you like to play the Mannequin event? Scenario: Takamagahara\nHarassment."
                             ]
                         },
                         {
@@ -34013,14 +32788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『マネキン』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント"
+                                "Do you want to play the Mannequin event? Scenario: Takamagahara\nHarassment."
                             ]
                         },
                         {
@@ -34268,28 +33036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『ゴムボール』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Rubber Ball? Scenario: TASK CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Uni-ni-gumi"
                             ]
                         },
                         {
@@ -34492,28 +33239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『ゴムボール』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Rubber Ball? Scenario: TASK CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Unini Group"
                             ]
                         },
                         {
@@ -34797,14 +33523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『ゴムボール』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK"
+                                "Do you want to play the Rubber Ball event? Scenario: TASK"
                             ]
                         },
                         {
@@ -34971,14 +33690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『ゴムボール』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK"
+                                "Do you want to play the Rubber Ball event? Scenario: TASK"
                             ]
                         },
                         {
@@ -35226,28 +33938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『皿の上の焦げた肉』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Burnt Meat on a Plate? Scenario:\nInuzamurai CV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring:\nUni ni Kumi"
                             ]
                         },
                         {
@@ -35450,28 +34141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『皿の上の焦げた肉』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Burnt Meat on a Plate? Scenario:\nInuzamurai CV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring:\nUni ni Kumi"
                             ]
                         },
                         {
@@ -35755,14 +34425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『皿の上の焦げた肉』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Would you like to replay the event Burnt Meat on a Plate? Scenario:\nDog Samurai"
                             ]
                         },
                         {
@@ -35926,14 +34589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『皿の上の焦げた肉』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Would you like to replay the event Burnt Meat on a Plate? Scenario:\nDog Samurai"
                             ]
                         },
                         {
@@ -36178,14 +34834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『蛇口』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK"
+                                "Do you want to play the Faucet event? Scenario: TASK"
                             ]
                         },
                         {
@@ -36352,14 +35001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『蛇口』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK"
+                                "Do you want to play the Faucet event? Scenario: TASK"
                             ]
                         },
                         {
@@ -36607,28 +35249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『蛇口』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Faucet? Scenario: TASK CV: Rio Fujimura\nIllustration: Mitsuki Yanagihara Coloring: Uni ni Kumi"
                             ]
                         },
                         {
@@ -36831,28 +35452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『蛇口』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Faucet? Scenario: TASK CV: Rio Fujimura\nIllustration: Mitsuki Yanagihara Coloring: Uni ni Kumi"
                             ]
                         },
                         {
@@ -37136,14 +35736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『洗濯ばさみ』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK"
+                                "Do you want to play the Clothespin event? Scenario: TASK"
                             ]
                         },
                         {
@@ -37310,14 +35903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『洗濯ばさみ』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK"
+                                "Do you want to play the Clothespin event? Scenario: TASK"
                             ]
                         },
                         {
@@ -37565,28 +36151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『洗濯ばさみ』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Laundry Clip? Scenario: TASK CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Unini Group"
                             ]
                         },
                         {
@@ -37789,28 +36354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『洗濯ばさみ』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Laundry Clip? Scenario: TASK CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Uniuni Team"
                             ]
                         },
                         {
@@ -38094,14 +36638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『哺乳瓶』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK"
+                                "Do you want to play the Bottle event? Scenario: TASK"
                             ]
                         },
                         {
@@ -38268,14 +36805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『哺乳瓶』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK"
+                                "Do you want to play the Bottle event? Scenario: TASK"
                             ]
                         },
                         {
@@ -38523,28 +37053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『哺乳瓶』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Bottle Feeding? Scenario: TASK CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Uni ni Gumi"
                             ]
                         },
                         {
@@ -38747,28 +37256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『哺乳瓶』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Bottle Feeding? Scenario: TASK CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Uni ni Gumi"
                             ]
                         },
                         {
@@ -39052,28 +37540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『植木鉢』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to replay the event Flowerpot? Scenario: Inuzamurai CV:\nRio Fujimura Illustration: Mitsuki Yanagihara Coloring: Unini-gumi"
                             ]
                         },
                         {
@@ -39276,28 +37743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『植木鉢』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to replay the event Flowerpot? Scenario: Inuzamurai CV:\nRio Fujimura Illustration: Mitsuki Yanagihara Coloring: Unini-gumi"
                             ]
                         },
                         {
@@ -39581,14 +38027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『植木鉢』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Do you want to replay the event Flowerpot? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -39752,14 +38191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『植木鉢』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Do you want to replay the Plant Pot event? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -40004,28 +38436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『蝋燭皿』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Candle Holder? Scenario: Inuzamurai CV:\nRio Fujimura Illustration: Mitsuki Yanagihara Coloring: Unini Group"
                             ]
                         },
                         {
@@ -40228,28 +38639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『蝋燭皿』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Candle Holder? Scenario: Inuzamurai CV:\nRio Fujimura Illustration: Mitsuki Yanagihara Coloring: Unini Group"
                             ]
                         },
                         {
@@ -40533,14 +38923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『蝋燭皿』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Do you want to replay the Candlestick event? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -40704,14 +39087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見立てイベント『蝋燭皿』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Would you like to replay the Candlestick event? Scenario: Dog Samurai"
                             ]
                         },
                         {
@@ -40963,21 +39339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーイベント『レジスター２』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:応壺"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:F.S"
+                                "Do you want to play the Psychometry Event Register-2? Scenario:\nOtsubo, Illustration: F.S."
                             ]
                         },
                         {
@@ -41225,21 +39587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーイベント『充電バッテリー』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:応壺"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:F.S"
+                                "Do you want to play the psychometry event Charging Battery? Scenario:\nOtsubo, Illustration: F.S."
                             ]
                         },
                         {
@@ -41508,21 +39856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーイベント『スマホ録画』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:応壺"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:F.S"
+                                "Do you want to play the psychometry event Smartphone Recording?\nScenario: Otsubo, Illustration: F.S."
                             ]
                         },
                         {
@@ -41756,21 +40090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーイベント『着ぐるみ』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:裏側ざん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:F.S"
+                                "Do you want to play the psychometry event Costume? Scenario: Uragawa\nZan Illustration: F.S"
                             ]
                         },
                         {
@@ -41967,7 +40287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "精液だまりで霊力補充"
+                                "Replenishing spiritual power in a semen pool."
                             ]
                         },
                         {
@@ -42102,28 +40422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "如月ヨミ２『怨霊の巣』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:マグロネコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:マグロネコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "CV:藤村 莉央 （フェラ音のみ素材集『姫騎士リヨナ』より）"
+                                "Would you like to play Yomizuki Yomi 2: Nest of Grudges? Illustration:\nMaguroneko Scenario: Maguroneko CV: Rio Fujimura (From the sound\nmaterial collection Princess Knight Liona only for fellatio sounds)"
                             ]
                         },
                         {
@@ -42331,28 +40630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "如月ヨミ３『ヒトガタ１』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:マグロネコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "CV:藤村 莉央"
+                                "Would you like to play Hitogata 1 by Yomi Kisaragi? Illustration:\nMaguroneko Scenario: Inuzamurai CV: Rio Fujimura"
                             ]
                         },
                         {
@@ -42560,28 +40838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "如月ヨミ４『ヒトガタ２』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:マグロネコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "CV:藤村 莉央"
+                                "Would you like to play Hitogata 2 by Yomi Kisaragi? Illustration:\nMaguro Neko Scenario: Inuzamurai CV: Rio Fujimura"
                             ]
                         },
                         {
@@ -42789,28 +41046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "如月ヨミ５『人間子宮』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:マグロネコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "CV:藤村 莉央 "
+                                "Do you want to play Human Uterus by Yomi Kisaragi 5? Illustration:\nMaguro Neko Scenario: Inuzamurai CV: Rio Fujimura"
                             ]
                         },
                         {
@@ -43018,21 +41254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーイベント『グラビア雑誌』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:裏側ざん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:OXIDEENGINE"
+                                "Do you want to play the psychometry event Gravure Magazine? Scenario:\nUragawa Zan, Illustration: OXIDEENGINE"
                             ]
                         },
                         {
@@ -43301,14 +41523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『アイテム送信１』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Would you like to play the event Item Transfer 1? Scenario: Dog\nSamurai"
                             ]
                         },
                         {
@@ -43534,14 +41749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "▶淫舞の道の開放条件"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奥殿４で偽仏に立ち向かわずに屈服する"
+                                "▶Condition for unlocking the Path of Lewd Dance: Submit without\nconfronting the False Buddha in the Inner Chamber 4."
                             ]
                         },
                         {
@@ -43609,28 +41817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『淫舞の道』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play The Path of Lewd Dance? Scenario: TASK CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Uni-ni-gumi"
                             ]
                         },
                         {
@@ -43834,14 +42021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "▶トゥルーエンドの開放条件"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アラカパート奥殿４で偽仏を撃破する。"
+                                "▶Defeat the False Buddha in the inner chamber 4 of the\nAlakapart to unlock the True End."
                             ]
                         },
                         {
@@ -43858,21 +42038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "偽仏の倒し方を見ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "※ネタバレを含むので一度クリアしたあとに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "御覧いただくことをおすすめします。"
+                                "Would you like to see how to defeat the False Buddha? *It is\nrecommended to view it after clearing it once, as it contains\nspoilers."
                             ]
                         },
                         {
@@ -43924,21 +42090,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "１．ホラーパートからやり直す場合"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "7つの遺物を集める、金庫でそそのかされないという、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ホラーパートクリア条件に加えて、以下の二点が重要です。"
+                                "If you want to start over from the Horror Part, in addition to the\ncondition of clearing the Horror Part without being tempted by the\nsafe, the following two points are important."
                             ]
                         },
                         {
@@ -43955,28 +42107,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "①余計なものを調べない(余計なものを調べて異界に取り込まれ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そうになる主人公を庇ってアラカは後遺症を負い弱体化します)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "②3回の影との接触イベントで、受け入れる選択肢をとる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "(影はアラカです。接触すると清浄な気に触れアラカが強化されます)"
+                                "①Do not investigate unnecessary things (If you investigate unnecessary\nthings, the protagonist will be protected by Araka and suffer from\naftereffects, weakening her) ② In the event of contact with the three\nshadows, choose to accept (The shadows are Araka. When you come into\ncontact with them, Araka is strengthened by touching the pure energy)"
                             ]
                         },
                         {
@@ -43993,28 +42124,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "上記の条件はアラカにゆかりのあるものは調べる、怪しいもの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "は調べないことでホラーパートスキップ機能からも、通常プレイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "からも満たすことができます。シーンがあるイベントはアラカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "パートに影響しないので全てのHシーンを見ることもできます。"
+                                "The above conditions can be fulfilled by not investigating things\nrelated to Araka and not investigating suspicious things, allowing you\nto skip the Horror Part and proceed from normal play. Since the events\nwith scenes do not affect the Araka Part, you can also see all the H\nscenes."
                             ]
                         },
                         {
@@ -44031,28 +42141,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "２．直近のセーブデータからアラカパートで『悟り』を開く"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アラカパートにおいて、三番目のボス『物不忌』に敗北した後、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "以下の条件を満たすと、アラカが覚醒し強化されます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "※この方法であればニューゲームからやり直す必要はありません。"
+                                "2. Unlocking Enlightenment from the recent save data In the\nAlakapart, after being defeated by the third boss Mofuki, if you meet\nthe following conditions, Araka will awaken and be strengthened. ※\nThere is no need to start a new game with this method."
                             ]
                         },
                         {
@@ -44069,28 +42158,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "①「見立てイベント」を一定数消化"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "②「戦闘敗北後ログイベント」で一定時間凌辱される"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "③「戦闘中」に一定回数「泥水をすすってでも」を選択"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "延べ回数で算定され、戦闘敗北後のリスポーン時に判定されます"
+                                "① 1. Consume a certain number of Perception Events 2. Endure\nhumiliation for a certain amount of time in the Defeat in Battle Log\nEvent 3. Choose Even if it means washing in muddy water a certain\nnumber of times during battle  These conditions are calculated based\non the total number of occurrences and are determined upon respawning\nafter defeat in battle."
                             ]
                         },
                         {
@@ -44107,28 +42175,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "三番目のボス『物不忌』は、二番目のボス『夜陰明神』に敗北し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ていないと戦えませんが、直近のセーブデータをロードし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『偽仏』に挑んで敗北すれば、敗北状況に応じ『夜陰明神』前"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "または『物不忌』前から再開されます。"
+                                "The third boss Mofuki cannot be fought unless you have been\ndefeated by the second boss Yainmeijin. However, if you load the most\nrecent save data and are defeated by the False Buddha, the battle will\nresume from either before Yainmeijin or before Mofuki depending on the\ndefeat situation."
                             ]
                         },
                         {
@@ -44145,14 +42192,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "上記の内容は、同封のネタバレフローチャートからも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "確認することが可能です。"
+                                "The above information can also be confirmed from the enclosed spoiler\nflowchart."
                             ]
                         },
                         {
@@ -44230,28 +42270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『桜エンド』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Would you like to play Sakura End? Scenario: Inuzamurai CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Unini-gumi"
                             ]
                         },
                         {
@@ -44448,14 +42467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "▶人柱エンドの開放条件"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奥殿４で偽仏に立ち向かわずに屈服する"
+                                "▶The condition for unlocking the Human Sacrifice End is to\nsubmit without confronting the False Buddha in the Inner Chamber 4."
                             ]
                         },
                         {
@@ -44523,28 +42535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『柱エンド』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色（廊下）:うにに組　　彩色（柱）:肉バキューム"
+                                "Do you want to play Pillar End? Scenario: Inuzamurai CV: Rio Fujimura\nIllustration: Mitsuki Yanagihara Coloring (Corridor): Unini- gumi\nColoring (Pillar): Niku Vacuum"
                             ]
                         },
                         {
@@ -44741,14 +42732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "▶トゥルーエンド～後日談・後～の開放条件"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アラカパート奥殿４で偽仏を撃破する。"
+                                "▶True End ~ Epilogue. To unlock the After ~ condition,\ndefeat the False Buddha in Araka Path Back Palace 4."
                             ]
                         },
                         {
@@ -44765,21 +42749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "偽仏の倒し方を見ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "※ネタバレを含むので一度クリアしたあとに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "御覧いただくことをおすすめします。"
+                                "Would you like to see how to defeat the False Buddha? *It is\nrecommended to view it after clearing it once, as it contains\nspoilers."
                             ]
                         },
                         {
@@ -44831,21 +42801,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "１．ホラーパートからやり直す場合"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "7つの遺物を集める、金庫でそそのかされないという、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ホラーパートクリア条件に加えて、以下の二点が重要です。"
+                                "1. If you want to start over from the Horror Path, in\naddition to the condition of clearing the Horror Path without being\ntempted by the safe, the following two points are important."
                             ]
                         },
                         {
@@ -44862,28 +42818,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "①余計なものを調べない(余計なものを調べて異界に取り込まれ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そうになる主人公を庇ってアラカは後遺症を負い弱体化します)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "②3回の影との接触イベントで、受け入れる選択肢をとる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "(影はアラカです。接触すると清浄な気に触れアラカが強化されます)"
+                                "①Do not investigate unnecessary things (If Araka protects the\nprotagonist from being absorbed into the other world by investigating\nunnecessary things, she will suffer from aftereffects and weaken) ② In\nthe event of contact with the three shadows, choose to accept (The\nshadows are Araka. When you make contact, Araka is strengthened by\ntouching the pure energy)"
                             ]
                         },
                         {
@@ -44900,28 +42835,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "上記の条件はアラカにゆかりのあるものは調べる、怪しいもの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "は調べないことでホラーパートスキップ機能からも、通常プレイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "からも満たすことができます。シーンがあるイベントはアラカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "パートに影響しないので全てのHシーンを見ることもできます。"
+                                "The above conditions can be fulfilled by investigating things related\nto Araka and not investigating suspicious things, both from the Horror\nPath skip function and from normal play. Since events with scenes do\nnot affect the Araka path, you can also see all H scenes."
                             ]
                         },
                         {
@@ -44938,28 +42852,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "２．直近のセーブデータからアラカパートで『悟り』を開く"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アラカパートにおいて、三番目のボス『物不忌』に敗北した後、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "以下の条件を満たすと、アラカが覚醒し強化されます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "※この方法であればニューゲームからやり直す必要はありません。"
+                                "2. Unlocking Enlightenment from the recent save data In the Araka\nPath, after being defeated by the third boss, Butsu Fuki, if you meet\nthe following conditions, Araka will awaken and become stronger. *You\ndo not need to start a new game with this method."
                             ]
                         },
                         {
@@ -44976,28 +42869,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "①「見立てイベント」を一定数消化"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "②「戦闘敗北後ログイベント」で一定時間凌辱される"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "③「戦闘中」に一定回数「泥水をすすってでも」を選択"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "延べ回数で算定され、戦闘敗北後のリスポーン時に判定されます"
+                                "① 1. Consume a certain number of Perception Events 2. Endure\nhumiliation for a certain amount of time in the Defeat Log Event 3.\nChoose Even if it means washing in muddy water a certain number of\ntimes during battle  These conditions are calculated based on the\ntotal number of occurrences and are determined upon respawning after\ndefeat in battle."
                             ]
                         },
                         {
@@ -45014,28 +42886,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "三番目のボス『物不忌』は、二番目のボス『夜陰明神』に敗北し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ていないと戦えませんが、直近のセーブデータをロードし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『偽仏』に挑んで敗北すれば、敗北状況に応じ『夜陰明神』前"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "または『物不忌』前から再開されます。"
+                                "The third boss, Butsu Fuki, can only be fought if you have\nnot been defeated by the second boss, Yain Myojin. However, if you\nload the most recent save data and are defeated by the False Buddha,\nyou will be respawned either in front of Yain Myojin or in front of\nButsu Fuki, depending on the defeat situation."
                             ]
                         },
                         {
@@ -45052,14 +42903,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "上記の内容は、同封のネタバレフローチャートからも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "確認することが可能です。"
+                                "The above information can also be confirmed from the enclosed spoiler\nflowchart."
                             ]
                         },
                         {
@@ -45137,28 +42981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『後日談・後』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Would you like to play Epilogue. After? Scenario: TASK CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Unini-gumi"
                             ]
                         },
                         {
@@ -45434,14 +43257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『アイテム送信２』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Would you like to play the event Item Transfer 2? Scenario: Dog\nSamurai"
                             ]
                         },
                         {
@@ -45649,28 +43465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "▶葬式エンドの開放条件"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "以下の条件を満たさず、ホラーパートで廃墟屋上に到達する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "①アラカの遺物を７つあつめる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(アラカの靴、手袋、下着、学生証、ブラジャー、制服、ブローチ)"
+                                "▶Funeral End Unlock Conditions: To reach the rooftop of the ruins in\nHorror Part, you must meet the following conditions: 1. Collect seven\nof Araka's belongings (Araka's shoes, gloves, underwear, student ID,\nbra, uniform, brooch)"
                             ]
                         },
                         {
@@ -45687,7 +43482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※ホラースキップ機能からでも開放できます。"
+                                "※You can unlock it even from the Horror Skip function."
                             ]
                         },
                         {
@@ -45755,28 +43550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『葬式エンド』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "グラフィック:犬侍"
+                                "Do you want to play Funeral End? Scenario: Inuzamurai CV: Rio Fujimura\nIllustration: Mitsuki Yanagihara Graphics: Inuzamurai"
                             ]
                         },
                         {
@@ -45999,14 +43773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "▶カーラエンドの開放条件"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "以下の条件を満たして、ホラーパートで廃墟屋上に到達する"
+                                "▶To unlock the Karahendo, fulfill the following conditions\nand reach the rooftop of the ruins in the Horror Park."
                             ]
                         },
                         {
@@ -46023,28 +43790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "①アラカの遺物を７つあつめる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(アラカの靴、手袋、下着、学生証、ブラジャー、制服、ブローチ)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "②カーラの金庫鍵を使って２階、３階、４階層の扉を開ける"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(アラカの護符、呪具、宝珠を使わない)"
+                                "①Collect 7 of Araka's relics (Araka's shoes, gloves, underwear, student\nID, bra, uniform, brooch). Use the Karahendo's safe key to open the\ndoors on the 2nd, 3rd, and 4th floors (without using Araka's amulet,\ncursed objects, or jewel)."
                             ]
                         },
                         {
@@ -46061,14 +43807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※ホラースキップ機能からでも開放できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "※アラカの護符を拾わないようにご注意ください。"
+                                "※You can also unlock it from the Horror Skip function.\n*Please be careful not to pick up Araka's amulet."
                             ]
                         },
                         {
@@ -46136,28 +43875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『カーラエンド』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Would you like to play Color End? Scenario: Inuzamurai CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Unini-gumi"
                             ]
                         },
                         {
@@ -46437,28 +44155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『オナニー１』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Onani-1? Scenario: TASK CV: Rio Fujimura\nIllustration: Mitsuki Yanagihara Coloring: Unini Group"
                             ]
                         },
                         {
@@ -46845,14 +44542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『精液だまりで霊力補充』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恭順度またはキャンセルを選択してください。"
+                                "Do you want to play the event Replenishing Spiritual Power in a Semen\nPool? Please choose between compliance or cancel."
                             ]
                         },
                         {
@@ -47282,28 +44972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカイベント『下水道』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:タカマガハラスメント　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to replay the Araka event Sewer? Scenario: Takamagahara\nHarassment CV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring:\nUnini Group"
                             ]
                         },
                         {
@@ -48017,28 +45686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『オナニー２』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Onani-2? Scenario: TASK CV: Rio Fujimura\nIllustration: Mitsuki Yanagihara Coloring: Unini-gumi"
                             ]
                         },
                         {
@@ -48446,28 +46094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『オナニー３』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the event Onani-3? Scenario: TASK CV: Rio Fujimura\nIllustration: Mitsuki Yanagihara Coloring: Unini Group"
                             ]
                         },
                         {
@@ -48854,28 +46481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『アラカの遺物　ブラジャー』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:U-mu"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "CV:藤村 莉央"
+                                "Would you like to play Araka's Relic: Bra-? Scenario: Inu Samurai\nIllustration: U-mu CV: Rio Fujimura"
                             ]
                         },
                         {
@@ -49102,21 +46708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『アラカの遺物　制服』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "CV:藤村 莉央"
+                                "Would you like to play Araka's Relic Uniform? Scenario: Inuzamurai CV:\nRio Fujimura"
                             ]
                         },
                         {
@@ -49343,28 +46935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『アラカの遺物　ブローチ』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:U-mu"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "CV:藤村 莉央"
+                                "Would you like to play Araka's Relic Brooch? Scenario: Dog Samurai\nIllustration: U-mu CV: Rio Fujimura"
                             ]
                         },
                         {
@@ -49612,28 +47183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『事後１』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play Event Aftermath 1? Scenario: TASK CV: Rio Fujimura\nIllustration: Mitsuki Yanagihara Coloring: Uni ni Gumi"
                             ]
                         },
                         {
@@ -49880,28 +47430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『事後２』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play Event Aftermath 2? Scenario: TASK CV: Rio Fujimura\nIllustration: Mitsuki Yanagihara Coloring: Uniuni Team"
                             ]
                         },
                         {
@@ -50148,28 +47677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『事後３』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play Event Aftermath 3? Scenario: TASK CV: Rio Fujimura\nIllustration: Mitsuki Yanagihara Coloring: Unini Group"
                             ]
                         },
                         {
@@ -50416,28 +47924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーイベント『コインランドリー』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the psychometry event Coin Laundry? Scenario:\nInuzamurai CV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring:\nUnini-gumi"
                             ]
                         },
                         {
@@ -50578,28 +48065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイコメトリーイベント『コインランドリー』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Do you want to play the psychometry event Coin Laundry? Scenario:\nInuzamurai CV: Rio Fujimura Illustration: Mitsuki Yanagihara Coloring:\nUnini-gumi"
                             ]
                         },
                         {
@@ -50756,14 +48222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "▶トゥルーエンド～後日談・前～の開放条件"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アラカパート奥殿４で偽仏を撃破する。"
+                                "▶True End ~ Epilogue. To unlock the previous content, defeat\nthe False Buddha in the depths of Araka Path 4."
                             ]
                         },
                         {
@@ -50780,21 +48239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "偽仏の倒し方を見ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "※ネタバレを含むので一度クリアしたあとに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "御覧いただくことをおすすめします。"
+                                "Do you want to see how to defeat the False Buddha? *It is recommended\nto view it after clearing it once, as it contains spoilers."
                             ]
                         },
                         {
@@ -50846,21 +48291,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "１．ホラーパートからやり直す場合"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "7つの遺物を集める、金庫でそそのかされないという、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ホラーパートクリア条件に加えて、以下の二点が重要です。"
+                                "1. If you want to start over from the Horror Path, in\naddition to the condition of clearing the Horror Path without being\ntempted by the safe, the following two points are important."
                             ]
                         },
                         {
@@ -50877,28 +48308,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "①余計なものを調べない(余計なものを調べて異界に取り込まれ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そうになる主人公を庇ってアラカは後遺症を負い弱体化します)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "②3回の影との接触イベントで、受け入れる選択肢をとる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "(影はアラカです。接触すると清浄な気に触れアラカが強化されます)"
+                                "①Do not investigate unnecessary things (If Araka protects the\nprotagonist from being absorbed into the other world by investigating\nunnecessary things, she will suffer from aftereffects and weaken) ② In\nthe event of contact with the three shadows, choose to accept (The\nshadows are Araka. When you make contact, Araka is strengthened by\ntouching the pure energy)"
                             ]
                         },
                         {
@@ -50915,28 +48325,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "上記の条件はアラカにゆかりのあるものは調べる、怪しいもの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "は調べないことでホラーパートスキップ機能からも、通常プレイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "からも満たすことができます。シーンがあるイベントはアラカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "パートに影響しないので全てのHシーンを見ることもできます。"
+                                "The above conditions can be fulfilled by investigating things related\nto Araka and not investigating suspicious things, both from the Horror\nPath skip function and from normal play. Since the events with scenes\ndo not affect the Araka Path, you can also see all the H scenes."
                             ]
                         },
                         {
@@ -50953,28 +48342,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "２．直近のセーブデータからアラカパートで『悟り』を開く"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アラカパートにおいて、三番目のボス『物不忌』に敗北した後、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "以下の条件を満たすと、アラカが覚醒し強化されます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "※この方法であればニューゲームからやり直す必要はありません。"
+                                "2. Unlocking Enlightenment from the recent save data In the\nAraka Path, after being defeated by the third boss Monfuki, if you\nmeet the following conditions, Araka will awaken and become stronger.\n※There is no need to start a new game with this method."
                             ]
                         },
                         {
@@ -50991,28 +48359,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "①「見立てイベント」を一定数消化"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "②「戦闘敗北後ログイベント」で一定時間凌辱される"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "③「戦闘中」に一定回数「泥水をすすってでも」を選択"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "延べ回数で算定され、戦闘敗北後のリスポーン時に判定されます"
+                                "①1. Consume a certain number of Perception Events 2. Endure\nhumiliation for a certain amount of time in the Defeat Log Event after\nbattle 3. Choose Even if it means washing in muddy water a certain\nnumber of times during battle. It will be calculated based on the\ntotal number of times and determined upon respawning after defeat."
                             ]
                         },
                         {
@@ -51029,28 +48376,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "三番目のボス『物不忌』は、二番目のボス『夜陰明神』に敗北し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ていないと戦えませんが、直近のセーブデータをロードし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『偽仏』に挑んで敗北すれば、敗北状況に応じ『夜陰明神』前"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "または『物不忌』前から再開されます。"
+                                "You cannot fight the third boss Monfuki unless you have\nbeen defeated by the second boss Yainmeijin. However, if you load the\nmost recent save data and are defeated by the False Buddha, you will\nbe restarted from either before Yainmeijin or before Monfuki depending\non the defeat situation."
                             ]
                         },
                         {
@@ -51067,14 +48393,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "上記の内容は、同封のネタバレフローチャートからも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "確認することが可能です。"
+                                "The above content can also be confirmed from the enclosed spoiler\nflowchart."
                             ]
                         },
                         {
@@ -51152,28 +48471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『後日談・前』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:TASK　　CV:藤村 莉央"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イラスト:柳原ミツキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彩色:うにに組"
+                                "Would you like to play Epilogue. Before? Scenario: TASK CV: Rio\nFujimura Illustration: Mitsuki Yanagihara Coloring: Uni ni Kumi"
                             ]
                         },
                         {
@@ -51449,14 +48747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント『アイテム送信３』を再生しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シナリオ:犬侍"
+                                "Would you like to play the event Item Send 3? Scenario: Dog Samurai"
                             ]
                         },
                         {

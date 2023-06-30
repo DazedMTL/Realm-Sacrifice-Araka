@@ -9116,28 +9116,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「少しくらい『ご休憩』してもいいんじゃないかしら」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Isn't it okay to take a little 'break'?"
                             ]
                         },
                         {
@@ -9194,28 +9173,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ふふっ……我慢は体に毒でしょう？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Hehe... Isn't patience toxic to the body?"
                             ]
                         },
                         {
@@ -9272,28 +9230,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「黙ってて。彼を探して、出口まで誘導しないと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなたも少しは役に立ちなさい」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Stay quiet. We need to find him and guide him to the exit. You should\nalso be a little helpful."
                             ]
                         },
                         {
@@ -9328,28 +9265,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「もう、つれない娘。でも、分かってる？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "出口、もう閉じられてしまっているけれど」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "You're such a cold-hearted girl. But do you understand? The exit has\nalready been closed."
                             ]
                         },
                         {
@@ -9395,28 +9311,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「……分かってる」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I understand."
                             ]
                         },
                         {
@@ -9473,14 +9368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「いや……物品の関連性……呪詛……確かに……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うん、護符……そう、破界の護符をどうにか送り込めれば……」"
+                                "No... the connection to the objects... the curse... indeed... yeah,\ntalisman... yes, if we can somehow send in a talisman of boundary\nbreaking..."
                             ]
                         },
                         {
@@ -10236,7 +10124,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ぐう゛う゛ぅっ……❤❤」"
+                                "*giggles* ❤❤"
                             ]
                         },
                         {
@@ -10253,21 +10141,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（おなかの中はぐちゃぐちゃ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あ、それとも、まっすぐに整理されてるのかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お通じもよくなってそうね）"
+                                "Is your stomach a mess? Or is it neatly organized? It seems like your\ndigestion is improving."
                             ]
                         },
                         {
@@ -11494,7 +11368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わっ、……あっ、足元……！」"
+                                "Wa, ... Ah, watch your step...!"
                             ]
                         },
                         {
@@ -11751,7 +11625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「たぁっ！」"
+                                "Taah!"
                             ]
                         },
                         {
@@ -11829,7 +11703,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「よし……！」"
+                                "Alright...!"
                             ]
                         },
                         {
@@ -12063,7 +11937,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「……追わなきゃ……！」"
+                                "I have to chase after them...!"
                             ]
                         },
                         {
@@ -12243,7 +12117,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うぅっ……ぐ、あぁあ……❤❤」"
+                                "Ugh... Ahh... ❤️❤️"
                             ]
                         },
                         {
@@ -12260,14 +12134,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（男の子ってどろんこ遊び、好きよね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アラカはどう？　元気な子だった？）"
+                                "(Boys really love playing in the mud, don't they... How about you,\nAraka? Were you an energetic child?)"
                             ]
                         },
                         {
@@ -12284,7 +12151,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「知ら、ないわよ、そんなのっ……❤」"
+                                "I don't know about that... ❤️"
                             ]
                         },
                         {
@@ -13742,7 +13609,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うぅっ……ぐ、あぁあ……❤❤」"
+                                "Ugh... Ahh... ❤❤"
                             ]
                         },
                         {
@@ -13759,14 +13626,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（男の子ってどろんこ遊び、好きよね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アラカはどう？　元気な子だった？）"
+                                "(Boys really love playing in the mud, don't they... How about you,\nAraka? Were you an energetic child?)"
                             ]
                         },
                         {
@@ -13783,7 +13643,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「う゛……ぉ゛……っ❤」"
+                                "Ugh... Ahh... ❤❤"
                             ]
                         },
                         {
@@ -15616,7 +15476,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うっ、ぐ……っ❤　ふぅうう……っ❤」"
+                                "Ugh, guh... ❤ Haaah... ❤"
                             ]
                         },
                         {
@@ -15633,7 +15493,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（アラカも大変ね、大丈夫？　ひとりでたっちできる？）"
+                                "(Araka, you must be going through a lot. Are you okay? Can you stand on\nyour own?)"
                             ]
                         },
                         {
@@ -16595,7 +16455,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――いや、違う！"
+                                "--No, that's wrong!"
                             ]
                         },
                         {
@@ -16898,7 +16758,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ァ……あっ……❤」"
+                                "A... Ah... ❤"
                             ]
                         },
                         {
@@ -16915,7 +16775,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（へとへとね、アラカ。お水汲んできてあげようか？）"
+                                "(You must be exhausted, Araka. Shall I go fetch some water for you?)"
                             ]
                         },
                         {
@@ -16932,7 +16792,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ぃらっ……ない……っ❤❤」"
+                                "I... don't... need... it ❤❤"
                             ]
                         },
                         {
@@ -17956,7 +17816,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ぐぅっ、は、ぁあああ……っ❤❤」"
+                                "Guh, haaahhhh......❤❤"
                             ]
                         },
                         {
@@ -17973,21 +17833,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（アラカ、休んでるヒマはなさそうよ？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ほら、もう次のモノに興味持ってるもの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "好奇心旺盛で、まるで赤ちゃんみたいね❤）"
+                                "(Ibasa, it doesn't seem like you have time to rest, huh? Look, you're\nalready interested in the next thing! You're so curious, just like a\nbaby ❤)"
                             ]
                         },
                         {
@@ -18004,7 +17850,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ぐ、う゛ぅ゛……っ❤❤」"
+                                "Guh, ugh......❤❤"
                             ]
                         },
                         {
@@ -18707,7 +18553,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「…………」"
+                                "「............」"
                             ]
                         },
                         {
@@ -18724,7 +18570,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（あら……どうかしたの？　ここでいいことでもされた？）"
+                                "(Oh... Is something wrong? Did something good happen here?)"
                             ]
                         },
                         {
@@ -18765,7 +18611,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「くっ……！」"
+                                "(Kuh...!)"
                             ]
                         },
                         {
@@ -19462,7 +19308,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うぅッ、うぅううううっ……❤❤」"
+                                "Ugh, uuuuuhhhhh...... ❤❤"
                             ]
                         },
                         {
@@ -19516,21 +19362,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（彼ったら、気づいてるのかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アラカがこーんなに尽くしてるのに！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "鈍感は罪よね、アラカ？）"
+                                "(I wonder if he even realizes? Despite how much I'm doing for him!\nBeing oblivious is a sin, isn't it, Araka?)"
                             ]
                         },
                         {
@@ -20232,14 +20064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(あら……また彼襲われてるみたいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どれだけ悪霊に好かれてるのかしら)"
+                                "(Oh... it seems like he's being attacked again. I wonder how much he's\nliked by evil spirits."
                             ]
                         },
                         {
@@ -20280,7 +20105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「させない……っ！」"
+                                "I won't let you...!"
                             ]
                         },
                         {
@@ -20487,7 +20312,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（やっぱり、アラカって弱っちいわよね……)"
+                                "(As I thought, Araka is really weak...)"
                             ]
                         },
                         {
@@ -20504,7 +20329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（仕方ないな……貸しだからね！）"
+                                "(It can't be helped... It's a favor, after all!)"
                             ]
                         },
                         {
@@ -20760,7 +20585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「怖がりのくせに、こんな時だけ頑固なのだから」"
+                                "You're such a scaredy-cat, yet you're stubborn only at times like\nthis."
                             ]
                         },
                         {
@@ -20902,7 +20727,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「…………」"
+                                "「............」"
                             ]
                         },
                         {
@@ -21018,7 +20843,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「私が連れ帰ってあげるしかない……か……」"
+                                "I have no choice but to take you back... I suppose..."
                             ]
                         },
                         {
@@ -21258,7 +21083,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「はーっ、んぐ……っ、はー……っ」"
+                                "Ha...ng...ha...h..."
                             ]
                         },
                         {
@@ -21280,7 +21105,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「あ……、彼行っちゃうわよ。」"
+                                "Oh... he's going to leave."
                             ]
                         },
                         {
@@ -21407,7 +21232,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「………………」"
+                                "「..................」"
                             ]
                         },
                         {
@@ -21459,7 +21284,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「にぶいひと……いいの……いいけど」"
+                                "A dull person... it's fine... it's fine though"
                             ]
                         },
                         {
@@ -22251,21 +22076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はー……はー……ん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あぁ……ひ……ぎ……お……んぉお……っ❤"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　は、ふ……あ、は……ひ❤」"
+                                "Ha... ha... n, ahh... hi... gi... o... nnoo... ❤ Ha, fu... a, ha... hi\n❤"
                             ]
                         },
                         {
@@ -25224,7 +25035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここ……異界と現世の隔たりが薄い」"
+                                "The barrier between the spirit world and the human world is thin here."
                             ]
                         },
                         {
@@ -25281,7 +25092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここなら──」"
+                                "If it's here──"
                             ]
                         },
                         {
@@ -25316,7 +25127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼を脱出させるための何かを渡せるかもしれない。"
+                                "I might be able to give him something to help him escape."
                             ]
                         },
                         {
@@ -25333,21 +25144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんなことしたら、また犯されるわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "異界に近いということは、悪霊やら妖魔やらを引き寄せやすい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ということでもあるもの」"
+                                "If you do something like that, you'll just be violated again. Being\nclose to the spirit world also means attracting evil spirits and\ndemons."
                             ]
                         },
                         {
@@ -25364,7 +25161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まずは何か霊具や呪具の素材にできるものを探さないと……！"
+                                "First, I need to find something that can be used as a material for\nspiritual tools or charms...!"
                             ]
                         },
                         {
@@ -25588,7 +25385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……んん……んー……」"
+                                "...Mmm...Mm-..."
                             ]
                         },
                         {
@@ -25605,28 +25402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「無駄かもしれない、とか思わないの？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Do you not think it might be pointless?"
                             ]
                         },
                         {
@@ -25683,28 +25459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「思うけれど、それが？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたも私と喋ってることが無駄でしょうに」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I think, but is it pointless? Even you talking to me is pointless,\nisn't it?"
                             ]
                         },
                         {
@@ -25739,21 +25494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "怨霊の嘲りを気にする様子もなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アラカは拾い上げた宝珠の欠片と辺りで集めた端材で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せっせと何かを作っていた。"
+                                "Araka, without showing any concern for the mockery of vengeful\nspirits, diligently worked on something using the fragments of a\npicked-up jewel and scraps gathered from the surroundings."
                             ]
                         },
                         {
@@ -25770,28 +25511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昏い淫界の底で、こんな清浄な気を放つ欠片を見つけられたのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幸運だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで次元が断絶しているかのような辺りの様子をみるに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこかから飛ばされてきた霊具の一部なのだろうか。"
+                                "It was fortunate to have found such a pure fragment emitting this kind\nof clear energy in the depths of the dark realm. Judging from the\nappearance of the surroundings, as if the dimensions were severed, it\nis likely a part of a spiritual tool that was sent from somewhere."
                             ]
                         },
                         {
@@ -25808,28 +25528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「無駄な努力が好きなのね」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I see, you like pointless efforts, don't you?"
                             ]
                         },
                         {
@@ -25886,28 +25585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「嫌いに決まってるでしょ。でも」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I'm sure you hate it. But..."
                             ]
                         },
                         {
@@ -25964,14 +25642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アラカは作り上げた呪具――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "──武器にもなりそうなその道具を胸に抱いた。"
+                                "Araka embraced the created spiritual tool - a tool that could even\nbecome a weapon - to her chest."
                             ]
                         },
                         {
@@ -26028,7 +25699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうしたいと思ったから」"
+                                "Because I wanted to do so"
                             ]
                         },
                         {
