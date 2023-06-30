@@ -8083,14 +8083,14 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog \\c[24]「アラカの学生証」\\c[0]を手に入れた"
+                                "addLog \\c[24]I　obtained　Araka's　student　ID　card"
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog \\c[24]「アラカの下着」\\c[0]を手に入れた"
+                                "addLog \\c[24]I　obtained　Araka's　underwear　\\c[0]"
                             ]
                         },
                         {

@@ -8174,7 +8174,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog \\C[27]後遺症:卵巣淫蟲巣\\C[0]が永続ステートに追加された"
+                                "addLog \\C[27]Aftereffect:　Ovarian　Lewd　Insect　Nest　\\C[0]　has　been　added　to　the　permanent　state"
                             ]
                         },
                         {
@@ -11248,7 +11248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In response to the monster approaching, trying to use Araka's\nManipulation Hole...:"
+                                "A monster approaches...:"
                             ]
                         },
                         {
@@ -11256,7 +11256,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Rebellion",
+                                    "Fight",
                                     "Serve and endure"
                                 ],
                                 1,

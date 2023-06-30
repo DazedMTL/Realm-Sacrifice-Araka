@@ -8564,7 +8564,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog \\c[2]「アラカの呪具」\\c[0]を手に入れた"
+                                "addLog \\c[2]I　obtained　Araka's　cursed　tool　\\c[0]"
                             ]
                         },
                         {
@@ -17671,7 +17671,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog \\c[24]「アラカのブラジャー」\\c[0]を手に入れた"
+                                "addLog \\c[24]I　obtained　Araka's　bra　\\c[0]"
                             ]
                         },
                         {

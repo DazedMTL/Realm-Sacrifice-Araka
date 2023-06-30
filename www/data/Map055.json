@@ -10805,7 +10805,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog \\C[27]後遺症:弾かれイキ狂うカラダ\\C[0]が永続ステートに追加された"
+                                "addLog \\C[27]Aftereffect:　The　body　that　goes　crazy　and　bounces　back　\\C[0]　has　been　added　to　the　permanent　state"
                             ]
                         },
                         {
@@ -12539,7 +12539,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "addLog \\C[27]後遺症:椅子奴隷型跪きマゾ\\C[0]が永続ステートに追加された"
+                                "addLog \\C[27]Aftereffect:　Chair　Slave　Type　Kneeling　Masochist　\\C[0]　has　been　added　to　the　permanent　state"
                             ]
                         },
                         {

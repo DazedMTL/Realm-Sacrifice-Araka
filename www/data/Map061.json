@@ -9611,7 +9611,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "addLog \\c[2]「アラカの宝珠」\\c[0]を手に入れた"
+                                "addLog \\c[2]I　obtained　Araka's　Jewel　\\c[0]"
                             ]
                         },
                         {
@@ -10512,7 +10512,7 @@
                             "code": 356,
                             "indent": 2,
                             "parameters": [
-                                "addLog \\c[24]「アラカの制服」\\c[0]を手に入れた"
+                                "addLog \\c[24]I　obtained　Araka's　school　uniform　\\c[0]"
                             ]
                         },
                         {
